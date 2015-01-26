@@ -1,0 +1,27 @@
+../preliminary/01   Sample test n = 4, k = 5
+../tests/subtask1/01   n = 1, k = 99. Delete all segments except one, delete from left and right alternately. All events have first type
+../tests/subtask1/02   n = 100, k = 99. Delete all segments except one, delete from right, one by one. All events have first type
+../tests/subtask1/03   n = 1, k = 99. Delete all segments except one, one skip, one delete, one skip, one delete etc. All events have first type
+../tests/subtask1/04   n = 100, k = 99. Delete all segments except one from middle. All events have first type
+../tests/subtask1/05   n = 100, k = 99. Random test. All events have first type
+../tests/subtask1/06   n = 100, k = 100. Random test, where all events have second type
+../tests/subtask1/07   n = 100, k = 100. Split all segments on odd positions and delete segments on even positions.
+../tests/subtask1/08   n = 100, k = 100. Split all segments on odd positions and delete all even new segments (with v > n)
+../tests/subtask1/09   n = 100, k = 100. Split first segment while can split. Then skip and split second while can etc. All events have second type
+../tests/subtask1/10   n = 100, k = 100. Random test
+../tests/subtask2/11   n = 100000, k = 100000. Split first segment while can split. Then skip and split second while can etc. All events have second type
+../tests/subtask2/12   n = 100000, k = 100000. Random test with step from 8 to 10
+../tests/subtask2/13   n = 100000, k = 100000. Random test with step from 8 to 10
+../tests/subtask2/14   n = 100000, k = 100000. Random test with step from 3 to 10
+../tests/subtask2/15   n = 100000, k = 100000. Random test with step from 9 to 10
+../tests/subtask3/16   n = 1, k = 99999. Delete all segments except one, delete from left and right alternately. All events have first type
+../tests/subtask3/17   n = 100000, k = 99999. Delete all segments except one, delete from right, one by one. All events have first type
+../tests/subtask3/18   n = 1, k = 99999. Delete all segments except one, one skip, one delete, one skip, one delete etc. All events have first type
+../tests/subtask3/19   n = 100000, k = 99999. Delete all segments except one from middle. All events have first type
+../tests/subtask3/20   n = 100000, k = 99999. Random test. All events have first type
+../tests/subtask4/21   n = 100000, k = 100000. Random test, where all events have second type
+../tests/subtask4/22   n = 100000, k = 100000. Split all segments on odd positions and delete segments on even positions.
+../tests/subtask4/23   n = 100000, k = 100000. Split all segments on odd positions and delete all even new segments (with v > n)
+../tests/subtask4/24   n = 100000, k = 100000. Random test
+../tests/subtask4/25   n = 100000, k = 100000. Random test
+../tests/subtask4/26   n = 100000, k = 100000. Anti stupid expand test

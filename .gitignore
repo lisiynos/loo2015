@@ -1,0 +1,5 @@
+testlogs
+*.exe
+*.u
+*.bak
+*.log

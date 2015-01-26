@@ -1,0 +1,24 @@
+#!/bin/bash
+
+case ${1##*.} in
+"py")
+    RUN="python $1"
+    ;;
+"cpp")
+    echo "compiling..."
+    g++ $1 -Wall -O2
+    RUN="./a.out"
+    ;;
+esac
+
+DIR=`pwd`
+NAME=${DIR##*/}
+
+for i in tests/*/??
+do
+    cp $i $NAME.in
+    ./run.c $RUN || echo ':(' > $NAME.out
+    cat $NAME.out
+    mv $NAME.out $i.a
+done
+
