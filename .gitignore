@@ -3,3 +3,5 @@ testlogs
 *.u
 *.bak
 *.log
+*.in
+*.out
