@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 15:04:41" tester="testsys">
+	<results tests="1-42" max-score="0" score="38" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Вырубка леса">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 9" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 4" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 5" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 9" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 4" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 5" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 999" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 857" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 856" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 59" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 61" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 2" score="32" max-score="32">
+			</result>
+			<result number="16" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="10">
+			</result>
+			<result number="21" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="22" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 1" score="0" max-score="10">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 1" score="3" max-score="3">
+			</result>
+			<result number="28" outcome="OK" pc-type="0" comment="* ok * 1" score="3" max-score="3">
+			</result>
+			<result number="29" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="30" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="31" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="32" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="33" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="34" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="35" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="36" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="37" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="38" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="39" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="40" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="41" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="42" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 9" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 4" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 5" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 9" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 4" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 5" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 999" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 857" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 856" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 59" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 61" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 2" score="32" max-score="32">
+			</result>
+			<result number="16" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="10">
+			</result>
+			<result number="21" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="22" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 1" score="0" max-score="10">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 1" score="3" max-score="3">
+			</result>
+			<result number="28" outcome="OK" pc-type="0" comment="* ok * 1" score="3" max-score="3">
+			</result>
+			<result number="29" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="30" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="31" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="32" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="33" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="34" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="35" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="36" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="37" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="38" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="39" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="40" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="41" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+			<result number="42" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="3">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

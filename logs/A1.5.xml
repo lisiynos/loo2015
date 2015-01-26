@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 14:59:27" tester="testsys">
+	<results tests="1-29" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Кольцевая линия">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;20&quot;, found: &quot;12&quot;" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;6&quot;, found: &quot;4&quot;" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;24&quot;, found: &quot;18&quot;" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;80&quot;, found: &quot;50&quot;" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;110&quot;, found: &quot;60&quot;" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
+			</result>
+			<result number="13" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
+			</result>
+			<result number="21" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="22" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="50">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;20&quot;, found: &quot;12&quot;" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;6&quot;, found: &quot;4&quot;" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;24&quot;, found: &quot;18&quot;" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;80&quot;, found: &quot;50&quot;" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;110&quot;, found: &quot;60&quot;" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
+			</result>
+			<result number="13" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
+			</result>
+			<result number="21" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="22" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="50">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

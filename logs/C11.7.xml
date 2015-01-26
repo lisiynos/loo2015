@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 15:09:18" tester="testsys">
+	<results tests="1-51" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Укладка плитки">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 2" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;71&quot;, found: &quot;67&quot;" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;228&quot;, found: &quot;202&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;733&quot;, found: &quot;607&quot;" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;2356&quot;, found: &quot;1822&quot;" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;7573&quot;, found: &quot;5467&quot;" score="0" max-score="20">
+			</result>
+			<result number="12" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-977799347332145746&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8615899586567983149&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3158653913009951625&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;1861858053000393839&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;160678045070146623&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-2896768517006967421&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8690305551020902262&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-7624172579353155169&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-4425773664349913890&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-5197521800093306826&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;14766068503954851&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5899495424779590350&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-7299287367980289121&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;102735756806310975&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;3492224863359995475&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-7970069483629565190&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-5463464377179143953&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;2056350942172119758&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="20">
+			</result>
+			<result number="32" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8572294026455754741&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8572294026455754741&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3280079182254162549&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8572294026455754741&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3280079182254162549&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="47" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3280079182254162549&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="48" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="49" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="50" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="51" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 2" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;71&quot;, found: &quot;67&quot;" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;228&quot;, found: &quot;202&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;733&quot;, found: &quot;607&quot;" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;2356&quot;, found: &quot;1822&quot;" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;7573&quot;, found: &quot;5467&quot;" score="0" max-score="20">
+			</result>
+			<result number="12" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-977799347332145746&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8615899586567983149&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3158653913009951625&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;1861858053000393839&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;160678045070146623&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-2896768517006967421&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8690305551020902262&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-7624172579353155169&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-4425773664349913890&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-5197521800093306826&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;14766068503954851&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5899495424779590350&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-7299287367980289121&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;102735756806310975&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;3492224863359995475&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-7970069483629565190&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-5463464377179143953&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;2056350942172119758&quot; ожидалось 32-битное целое" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="20">
+			</result>
+			<result number="32" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8572294026455754741&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8572294026455754741&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3280079182254162549&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;5169423080659809947&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-8572294026455754741&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3280079182254162549&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="47" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;-3280079182254162549&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="48" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="49" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="50" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+			<result number="51" outcome="PE" pc-type="0" comment="* Формат в/в * Вместо &quot;6169052826516359275&quot; ожидалось 32-битное целое" score="0" max-score="2">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

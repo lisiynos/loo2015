@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 14:58:04" tester="testsys">
+	<results tests="1-79" max-score="0" score="20" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Магические порталы">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 5 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 2 numbers" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 3 numbers" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 2 numbers" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 3 numbers" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 50 numbers" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 26 numbers" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 46 numbers" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 44 numbers" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 50 numbers" score="20" max-score="20">
+			</result>
+			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="32" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="33" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="34" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="35" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="36" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="37" outcome="TL" pc-type="0" comment="" score="0" max-score="30">
+			</result>
+			<result number="38" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="39" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="40" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="41" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="42" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="43" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="44" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="45" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="46" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="47" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="48" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="49" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="50" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="51" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+			<result number="52" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="53" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="54" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="55" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="56" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="57" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="58" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="59" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="60" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="61" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="62" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="63" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="64" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="65" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="66" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="67" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="68" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="69" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="70" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="71" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="72" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="73" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="74" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="75" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="76" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="77" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="78" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="79" outcome="TL" pc-type="0" comment="" score="0" max-score="30">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 5 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 2 numbers" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 3 numbers" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 2 numbers" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 3 numbers" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 50 numbers" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 1 numbers" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 26 numbers" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 46 numbers" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 44 numbers" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 50 numbers" score="20" max-score="20">
+			</result>
+			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="32" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="33" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="34" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="35" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="36" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="37" outcome="TL" pc-type="0" comment="" score="0" max-score="30">
+			</result>
+			<result number="38" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="39" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="40" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="41" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="42" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="43" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="44" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="45" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="46" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="47" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="48" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="49" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="50" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="51" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+			<result number="52" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="53" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="54" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="55" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="56" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="57" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="58" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="59" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="60" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="61" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="62" outcome="WA" pc-type="0" comment="* Неверный ответ * not enough numbers" score="0" max-score="0">
+			</result>
+			<result number="63" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="64" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="65" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="66" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="67" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="68" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="69" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="70" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="71" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="72" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="73" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="74" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="75" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="76" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="77" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="78" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="79" outcome="TL" pc-type="0" comment="" score="0" max-score="30">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

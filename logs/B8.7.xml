@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 14:55:01" tester="testsys">
+	<results tests="1-51" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Укладка плитки">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 2" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;71&quot;, found: &quot;73&quot;" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;228&quot;, found: &quot;242&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;733&quot;, found: &quot;807&quot;" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;2356&quot;, found: &quot;2696&quot;" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;7573&quot;, found: &quot;9019&quot;" score="0" max-score="20">
+			</result>
+			<result number="12" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;272453423&quot;, found: &quot;718133081&quot;" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;812810898&quot;, found: &quot;644460035&quot;" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;974474934&quot;, found: &quot;436629755&quot;" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;372660364&quot;, found: &quot;938494800&quot;" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;493685652&quot;, found: &quot;461355188&quot;" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;60683651&quot;, found: &quot;197113884&quot;" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;744037468&quot;, found: &quot;814034097&quot;" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;93142307&quot;, found: &quot;602608457&quot;" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;962780738&quot;, found: &quot;552500981&quot;" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;237447039&quot;, found: &quot;148766213&quot;" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+			<result number="32" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;282587008&quot;, found: &quot;148766213&quot;" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;500970475&quot;, found: &quot;148766213&quot;" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;746787293&quot;, found: &quot;148766213&quot;" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="47" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="48" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="49" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="50" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="51" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 2" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;71&quot;, found: &quot;73&quot;" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;228&quot;, found: &quot;242&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;733&quot;, found: &quot;807&quot;" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;2356&quot;, found: &quot;2696&quot;" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;7573&quot;, found: &quot;9019&quot;" score="0" max-score="20">
+			</result>
+			<result number="12" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;272453423&quot;, found: &quot;718133081&quot;" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;812810898&quot;, found: &quot;644460035&quot;" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;974474934&quot;, found: &quot;436629755&quot;" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;372660364&quot;, found: &quot;938494800&quot;" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;493685652&quot;, found: &quot;461355188&quot;" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;60683651&quot;, found: &quot;197113884&quot;" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;744037468&quot;, found: &quot;814034097&quot;" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;93142307&quot;, found: &quot;602608457&quot;" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;962780738&quot;, found: &quot;552500981&quot;" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;237447039&quot;, found: &quot;148766213&quot;" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+			<result number="32" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;282587008&quot;, found: &quot;148766213&quot;" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;500970475&quot;, found: &quot;148766213&quot;" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;746787293&quot;, found: &quot;148766213&quot;" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="47" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="48" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="49" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="50" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+			<result number="51" outcome="TL" pc-type="0" comment="" score="0" max-score="2">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 14:12:08" tester="testsys">
+	<results tests="1-2" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Укладка плитки">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="JE" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="JE" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

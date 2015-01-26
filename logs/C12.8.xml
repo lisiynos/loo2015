@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="26.01.2015 14:55:16" tester="testsys">
+	<results tests="1-79" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Магические порталы">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 5 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="WA" pc-type="0" comment="* Неверный ответ * too many numbers" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * number 4 - expected: &quot;3&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;4&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;50&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;50&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;25&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;5&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;300&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;300&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;18&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;92&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;150&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;5&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="30">
+			</result>
+			<result number="38" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="39" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;2000&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="40" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;500&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="41" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="42" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;83&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="43" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;447&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;14&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="45" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="46" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="47" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="48" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;1395&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="49" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="50" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="51" outcome="WA" pc-type="0" comment="* Неверный ответ * number 4 - expected: &quot;3&quot;, found: &quot;0&quot;" score="0" max-score="20">
+			</result>
+			<result number="52" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="53" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="54" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="55" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="56" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="57" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="58" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;7&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="59" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;8&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="60" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;9&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="61" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;10&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="62" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;12&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="63" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1997002&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="64" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;2000&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="65" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;200&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="66" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;200&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="67" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;19702&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="68" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;19702&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="69" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;19701&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="70" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;100&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="71" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1997002&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="72" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1997002&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="73" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;2000&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="74" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;1999&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="75" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;299&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="76" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="77" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;35246&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="78" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;36047&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="79" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1523386&quot;, found: &quot;7&quot;" score="0" max-score="30">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 5 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="WA" pc-type="0" comment="* Неверный ответ * too many numbers" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * number 4 - expected: &quot;3&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;4&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;50&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;50&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;25&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;5&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;300&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;300&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;18&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;92&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;150&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;5&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="30">
+			</result>
+			<result number="38" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="39" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;2000&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="40" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;500&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="41" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="42" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;83&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="43" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;447&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;14&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="45" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="46" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="47" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="48" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;1395&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="49" outcome="WA" pc-type="0" comment="* Неверный ответ * number 3 - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="0">
+			</result>
+			<result number="50" outcome="WA" pc-type="0" comment="* Неверный ответ * number 5 - expected: &quot;0&quot;, found: &quot;3&quot;" score="0" max-score="0">
+			</result>
+			<result number="51" outcome="WA" pc-type="0" comment="* Неверный ответ * number 4 - expected: &quot;3&quot;, found: &quot;0&quot;" score="0" max-score="20">
+			</result>
+			<result number="52" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="53" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="54" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="55" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="56" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="57" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;6&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="58" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;7&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="59" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;8&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="60" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;9&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="61" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;10&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="62" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;12&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="63" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1997002&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="64" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;2000&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="65" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;200&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="66" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;200&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="67" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;19702&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="68" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;19702&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="69" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;19701&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="70" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;100&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="71" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1997002&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="72" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1997002&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="73" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;2000&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="74" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;1999&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="75" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;299&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="76" outcome="WA" pc-type="0" comment="* Неверный ответ * number 1 - expected: &quot;3&quot;, found: &quot;1&quot;" score="0" max-score="0">
+			</result>
+			<result number="77" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;35246&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="78" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;36047&quot;, found: &quot;7&quot;" score="0" max-score="0">
+			</result>
+			<result number="79" outcome="WA" pc-type="0" comment="* Неверный ответ * number 2 - expected: &quot;1523386&quot;, found: &quot;7&quot;" score="0" max-score="30">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>
