@@ -8,15 +8,13 @@ class TestGen:
         self.desc_file = open("../tests.desc", "w")
 
     def generate_samples(self):             
-        # self.print_test(2, 3, "preliminary")
-        self.print_test(2, 3)
+        self.print_test(2, 3, "preliminary")
 
                                        
     def print_test(self, a, b, dirname="tests", subtask=None):
 #        subtask = None
         self.test_number += 1
-        # test_name = "../" + dirname + ("/subtask" + str(subtask) if subtask else "") + "/{0:0=2d}".format(self.test_number)
-        test_name = "../" + dirname + "/{0:0=2d}".format(self.test_number)
+        test_name = "../" + dirname + ("/subtask" + str(subtask) if subtask else "") + "/{0:0=2d}".format(self.test_number)
         test_file = open(test_name, "w")
         print(a, b, file=test_file)
         print(test_name + "   A = %d, B = %d" % (a, b), file=self.desc_file)
@@ -57,9 +55,9 @@ if os.path.exists('../preliminary'):
     shutil.rmtree('../preliminary', ignore_errors=False, onerror=None)
 try:
     os.makedirs('../tests')
-    #for subtask in range(1, subtasks + 1):
-    #    os.makedirs('../tests/subtask' + str(subtask))
-    #os.makedirs('../preliminary')
+    for subtask in range(1, subtasks + 1):
+        os.makedirs('../tests/subtask' + str(subtask))
+    os.makedirs('../preliminary')
 
 except OSError:
     pass

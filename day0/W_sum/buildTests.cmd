@@ -22,7 +22,7 @@ g++ -O2  -Wall -Wextra -Wconversion -Werror -I..\..\..\lib -o ..\sum_as.exe sum_
 popd
 
 echo Generating answers
-for %%i in (tests) do (
+for %%i in (preliminary, tests\subtask1, tests\subtask2) do (
     for %%j in (%%i\??) do (
         echo Copying input for test %%j
         copy %%j sum.in > nul
@@ -59,6 +59,8 @@ for %%i in (tests) do (
         echo Saving answer for test %%j
         copy sum.out %%j.a > nul
     )
+    move %%i\* tests
+    rmdir %%i
 )
 
 echo Copy checker to tests
