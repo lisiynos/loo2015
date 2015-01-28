@@ -1,5 +1,7 @@
 @echo off
 
+set path=C:\Python34;C:\Python33;%PATH%
+
 echo Compiling checker
 dcc32 -U..\..\lib -cc check.dpr
 
@@ -57,7 +59,11 @@ for %%i in (preliminary, tests\subtask1, tests\subtask2) do (
         echo Saving answer for test %%j
         copy sumsqr.out %%j.a > nul
     )
+    move %%i\* tests
+    rmdir %%i
 )
 
+echo Copy checker to tests
+copy check.* tests
 
 :end
