@@ -1,5 +1,7 @@
 @echo off
 
+set path=C:\Python34;C:\Python33;%PATH%
+
 echo Compiling checker
 dcc32 -U..\..\lib -cc check.dpr
 
@@ -20,7 +22,7 @@ g++ -O2  -Wall -Wextra -Wconversion -Werror -I..\..\..\lib -o ..\sum_as.exe sum_
 popd
 
 echo Generating answers
-for %%i in (preliminary, tests\subtask1, tests\subtask2) do (
+for %%i in (tests) do (
     for %%j in (%%i\??) do (
         echo Copying input for test %%j
         copy %%j sum.in > nul
@@ -59,5 +61,7 @@ for %%i in (preliminary, tests\subtask1, tests\subtask2) do (
     )
 )
 
+echo Copy checker to tests
+copy check.* tests
 
 :end
