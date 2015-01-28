@@ -5,3 +5,4 @@ testlogs
 *.log
 *.in
 *.out
+*.dat
