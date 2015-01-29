@@ -19,6 +19,7 @@ popd
 echo Compiling main solution
 pushd main
 g++ -O2  -Wall -Wextra -Wconversion -Werror -I..\..\..\lib -o ..\sum_as.exe sum_as.cpp
+copy sum_as.cpp ..\tests\solution.cpp
 popd
 
 echo Generating answers
