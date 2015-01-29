@@ -52,7 +52,7 @@ class TestGen:
         maxn = 10**5
 
         self.generate_samples() 
-        self.test_number = 0
+        #self.test_number = 0  # TestSys
         
         #First subtask: 1 <= a, b <= 1000, 4 <= c, d <= 1000
         self.print_test(1, 1, 4, 4, subtask=1)
