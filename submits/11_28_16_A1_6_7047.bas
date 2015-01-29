@@ -1,3 +1,4 @@
+Imports System.IO
 Module Module1
     Dim i2, i, last, n, A, K, B, M, X, virubleno, endq As Integer
     Dim t1, f, qw(4), defaultPath, outPath As String
@@ -48,7 +49,8 @@ Module Module1
             End If
         Next
 
-        My.Computer.FileSystem.WriteAllText(outPath, endq, False)
+        ' My.Computer.FileSystem.WriteAllText(outPath, endq, False)
+        File.WriteAllText(outPath, endq)
 
     End Sub
 

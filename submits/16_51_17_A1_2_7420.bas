@@ -1,3 +1,4 @@
+Imports System.IO
 Module Module1
     Dim f, t1, t2, t3, t4, defaultPath, outPath As String
     Dim i, i2, i3, last, n, k, C, D, chZAL, povtZAL, summa, max, r1, r2 As Integer
@@ -81,7 +82,8 @@ Module Module1
             Next
         End If
 
-        My.Computer.FileSystem.WriteAllText(outPath, max, False)
+        ' My.Computer.FileSystem.WriteAllText(outPath, max, False)
+         
     End Sub
 
 End Module
