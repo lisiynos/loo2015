@@ -1,0 +1,17 @@
+TESTING=4826
+CREATED=29.01.2015 16:30:46
+COMPILERES=1
+COMPILECOMM=@#$
+3.cpp:28:5: предупреждение: параметр «length» не используется [-Wunused-parameter]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 6 numbers
+
+$#@
+TESTMEM=4366336
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:48:35

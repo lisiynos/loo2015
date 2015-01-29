@@ -1,0 +1,17 @@
+TESTING=220
+CREATED=26.01.2015 22:35:05
+COMPILERES=1
+COMPILECOMM=@#$
+X.cpp: В функции «int main()»:
+X.cpp:12:8: предупреждение: неиспользуемая переменная «sum» [-Wunused-variable]
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file sumsqr.out does not exist
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=28.01.2015 23:51:16
+COMPLETE=28.01.2015 23:51:16
+TOTAL=0

@@ -1,0 +1,28 @@
+TESTING=4067
+CREATED=29.01.2015 02:30:30
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\1.exe
+
+Adding    C:\judge\TestArea\1.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file hall.out does not exist
+TESTMEM=7819264
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:33:24
+COMPLETE=29.01.2015 02:33:25
+MAXMEMORY=7819264
+MAXTIME=781250
+TOTAL=0

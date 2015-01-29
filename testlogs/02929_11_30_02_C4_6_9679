@@ -1,0 +1,21 @@
+TESTING=2929
+CREATED=29.01.2015 16:30:21
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+z6.dpr(15) Hint: Value assigned to 'm1' never used
+z6.dpr(14) Hint: Value assigned to 'k1' never used
+z6.dpr(28) 
+29 lines, 0.05 seconds, 31032 bytes code, 2993 bytes data.
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file forest.out does not exist
+TESTMEM=2568192
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:38:21
+COMPLETE=29.01.2015 16:38:22
+TOTAL=0

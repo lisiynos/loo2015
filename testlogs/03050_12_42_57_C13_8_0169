@@ -1,0 +1,33 @@
+TESTING=3050
+CREATED=29.01.2015 16:30:29
+COMPILERES=1
+COMPILECOMM=@#$
+javacomp.cmd
+C:\judge\TestArea\8
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\8.exe
+
+Adding    java$1.class                                                OK 
+Adding    java$City.class                                             OK 
+Adding    java$CustomComparator.class                                 OK 
+Adding    java$FastReader.class                                       OK 
+Adding    java.class                                                  OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 5 numbers
+
+$#@
+TESTMEM=12427264
+TESTTIME=1562500
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:41:58

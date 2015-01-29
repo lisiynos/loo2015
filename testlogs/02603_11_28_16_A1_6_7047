@@ -1,0 +1,36 @@
+TESTING=2603
+CREATED=26.01.2015 22:32:22
+COMPILERES=1
+COMPILECOMM=@#$
+Компилятор Microsoft (R) Visual Basic версии 12.0.51209.34209
+(c) Корпорация Майкрософт (Microsoft Corp.).  Все права защищены.
+
+C:\judge\TestArea\6.bas(13) : warning BC42110: Тип для переменной "i2" не будет выведен, так как он связан с полем класса во внешней области. Измените имя "i2" или используйте полное имя (например, "Me.i2" или "MyBase.i2").
+
+        For i2 = 0 To n
+            ~~         
+C:\judge\TestArea\6.bas(14) : warning BC42110: Тип для переменной "i" не будет выведен, так как он связан с полем класса во внешней области. Измените имя "i" или используйте полное имя (например, "Me.i" или "MyBase.i").
+
+            For i = last To f.Length - 1
+                ~                       
+C:\judge\TestArea\6.bas(36) : warning BC42110: Тип для переменной "i" не будет выведен, так как он связан с полем класса во внешней области. Измените имя "i" или используйте полное имя (например, "Me.i" или "MyBase.i").
+
+        For i = 1 To 100000000
+            ~                 
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=@#$
+* ”®а¬ в ў/ў * invalid character in answer
+
+$#@
+TESTMEM=8323072
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=26.01.2015 22:34:26
+COMPLETE=26.01.2015 22:34:26
+MAXMEMORY=8323072
+MAXTIME=781250
+TOTAL=0

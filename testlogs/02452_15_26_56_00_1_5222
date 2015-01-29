@@ -1,0 +1,59 @@
+TESTING=2452
+CREATED=25.01.2015 14:32:26
+COMPILERES=1
+COMPILECOMM=@#$
+
+C:\judge\TestArea>rem @echo off 
+
+C:\judge\TestArea>C:\judge\QB\bc.exe 1.bas 1.obj nul.lst 
+Microsoft (R) QuickBASIC Compiler Version 4.50
+(C) Copyright Microsoft Corporation 1982-1988.
+All rights reserved.
+Simultaneously published in the U.S. and Canada.
+ 0030   0006    Imports System
+                        ^ Equal sign missing
+ 0030   0006    Public Module modmain
+                       ^ Equal sign missing
+                              ^ Syntax error
+ 0033   0006       Sub Main()
+                            ^ Formal parameter specification illegal
+ 0033   0006         Console.WriteLine ("Hello World using Visual Basic!")
+                                                                         ^ Type mismatch
+                                                                         ^ Array not dimensioned
+                                                                          ^ Equal sign missing
+ 0033   0032       End Sub
+                       ^ END SUB/FUNCTION without SUB/FUNCTION
+ 0033   0032    End Module
+                    ^ Syntax error
+
+42029 Bytes Available
+41722 Bytes Free
+
+    1 Warning Error(s)
+    8 Severe  Error(s)
+
+C:\judge\TestArea>echo 1.exe 1>_qbfile_ 
+
+C:\judge\TestArea>echo nul.map 1>>_qbfile_ 
+
+C:\judge\TestArea>echo C:\judge\QB\bcom45.lib 1>>_qbfile_ 
+
+C:\judge\TestArea>C:\judge\QB\link.exe 1.obj  0<_qbfile_ 
+
+Microsoft (R) Overlay Linker  Version 3.69   
+Copyright (C) Microsoft Corp 1983-1988.  All rights reserved.
+
+Run File [1.EXE]: List File [NUL.MAP]: Libraries [.LIB]: 
+C:\judge\TestArea>erase _qbfile_ 
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0.00000
+TESTCOMM=Output file hall.out does not exist
+TESTMEM=4259840
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=24.01.2015 23:13:58
+COMPLETE=25.01.2015 14:32:26
+MAXMEMORY=4259840
+TOTAL=0

@@ -1,0 +1,28 @@
+TESTING=223
+CREATED=26.01.2015 22:35:05
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\W.exe
+
+Adding    C:\judge\TestArea\W.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file sum.out does not exist
+TESTMEM=7782400
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=27.01.2015 00:11:45
+COMPLETE=27.01.2015 00:11:45
+MAXMEMORY=7782400
+MAXTIME=625000
+TOTAL=0

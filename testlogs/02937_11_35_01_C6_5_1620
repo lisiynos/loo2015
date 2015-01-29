@@ -1,0 +1,31 @@
+TESTING=2937
+CREATED=29.01.2015 16:30:22
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\5.exe
+
+Adding    C:\judge\TestArea\5.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=@#$
+* Формат в/в * invalid character in answer
+
+$#@
+TESTMEM=7852032
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:38:27
+COMPLETE=29.01.2015 16:38:27
+MAXMEMORY=7852032
+MAXTIME=625000
+TOTAL=0

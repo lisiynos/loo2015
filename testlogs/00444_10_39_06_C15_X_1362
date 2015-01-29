@@ -1,0 +1,26 @@
+TESTING=444
+CREATED=29.01.2015 02:31:14
+COMPILERES=1
+COMPILECOMM=@#$
+Setting environment for using Microsoft Visual Studio 2010 x86 tools.
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+X.cpp
+C:\Program Files\Microsoft Visual Studio 10.0\VC\INCLUDE\xlocale(323) : warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+Microsoft (R) Incremental Linker Version 10.00.30319.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:X.exe 
+X.obj 
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file sumsqr.out does not exist
+TESTMEM=1904640
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:52:02
+COMPLETE=29.01.2015 02:52:02
+TOTAL=0

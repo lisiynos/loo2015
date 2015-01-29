@@ -1,0 +1,32 @@
+TESTING=5097
+CREATED=29.01.2015 16:31:01
+COMPILERES=1
+COMPILECOMM=@#$
+Компилятор Microsoft (R) Visual C# 2010 версии 4.0.30319.34209
+для Microsoft (R) .NET Framework 4.5
+(C) Корпорация Майкрософт (Microsoft Corp.). Все права защищены.
+
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 4 numbers
+
+$#@
+TESTMEM=6848512
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:57:10
+TESTID=2
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 6 numbers
+
+$#@
+TESTMEM=6852608
+TESTTIME=468750
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:57:12

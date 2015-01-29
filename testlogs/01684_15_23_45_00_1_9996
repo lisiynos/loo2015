@@ -1,0 +1,21 @@
+TESTING=1684
+CREATED=24.01.2015 23:05:39
+COMPILERES=1
+COMPILECOMM=@#$
+Компилятор Microsoft (R) Visual C# 2010, версия 4.0.30319.1
+(C) Корпорация Майкрософт (Microsoft Corp.). Все права защищены.
+
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file hall.out does not exist
+TESTMEM=6483968
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=24.01.2015 23:13:43
+COMPLETE=24.01.2015 23:13:43
+MAXMEMORY=6483968
+MAXTIME=625000
+TOTAL=0

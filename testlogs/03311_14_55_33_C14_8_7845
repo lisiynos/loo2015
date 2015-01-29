@@ -1,0 +1,19 @@
+TESTING=3311
+CREATED=29.01.2015 16:30:43
+COMPILERES=1
+COMPILECOMM=@#$
+efee.cpp: В функции «int main()»:
+efee.cpp:63:30: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+efee.cpp:87:38: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 5 numbers
+
+$#@
+TESTMEM=1798144
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:47:29

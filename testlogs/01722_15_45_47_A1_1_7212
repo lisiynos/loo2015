@@ -1,0 +1,106 @@
+TESTING=1722
+CREATED=24.01.2015 23:05:41
+COMPILERES=1
+COMPILECOMM=@#$
+
+C:\judge\TestArea>rem @echo off 
+
+C:\judge\TestArea>C:\judge\QB\bc.exe 1.bas 1.obj nul.lst 
+Microsoft (R) QuickBASIC Compiler Version 4.50
+(C) Copyright Microsoft Corporation 1982-1988.
+All rights reserved.
+Simultaneously published in the U.S. and Canada.
+ 0030   0006    Module Module1
+                       ^ Equal sign missing
+ 0030   005A        Dim perimetrs(1000000), squares(1000000) As Integer
+                                          ^ Math overflow
+                                                                ^ Math overflow
+ 0033   006C        Sub Main()
+                             ^ Formal parameter specification illegal
+ 0033   006C            outPath = defaultPath & "\hall.out"
+                                              ^ Overflow in numeric constant
+                                              ^ Type mismatch
+ 003F   0070            defaultPath = defaultPath & "\hall.in"
+                                                  ^ Overflow in numeric constant
+ 003F   0070            f = My.Computer.FileSystem.ReadAllText(defaultPath)
+                                                                          ^ Array not dimensioned
+ 003F   009C            t1 = ""
+                               ^ Type mismatch
+ 005B   009C            t2 = ""
+                               ^ Type mismatch
+ 005B   009C            t3 = ""
+                               ^ Type mismatch
+ 005B   009C            t4 = ""
+                               ^ Type mismatch
+ 0086   00A4                t1 = t1 & f.Substring(i, 1)
+                                    ^ Overflow in numeric constant
+ 0086   00A4                If f.Substring(i, 1) = " " Then
+                                               ^ Array not dimensioned
+                                                       ^ Type mismatch
+ 00D8   028C                t2 = t2 & f.Substring(i, 1)
+                                    ^ Overflow in numeric constant
+ 00D8   028C                If f.Substring(i, 1) = " " Then
+                                                       ^ Type mismatch
+ 012A   0290                t3 = t3 & f.Substring(i, 1)
+                                    ^ Overflow in numeric constant
+ 012A   0290                If f.Substring(i, 1) = " " Then
+                                                       ^ Type mismatch
+ 017C   0294                t4 = t4 & f.Substring(i, 1)
+                                    ^ Overflow in numeric constant
+ 01A0   0294            cacl()
+                             ^ Syntax error
+ 01D0   0294            My.Computer.FileSystem.WriteAllText(outPath, povtZAL, False)
+                                                                   ^ Type mismatch
+                                                                                   ^ Array not dimensioned
+                                                                                    ^ Equal sign missing
+ 01D0   1760        End Sub
+                        ^ END SUB/FUNCTION without SUB/FUNCTION
+ 01D3   1760        Sub cacl()
+                        ^ Name of subprogram illegal
+ 01FC   1768                        chZAL += 1
+                                          ^ Equal sign missing
+                                           ^ Syntax error
+ 029E   176C                                povtZAL += 1
+                                                    ^ Equal sign missing
+                                                     ^ Syntax error
+ 02F5   176C                                povtZAL += 1
+                                                    ^ Equal sign missing
+                                                     ^ Syntax error
+ 041B   176C        End Sub
+                        ^ END SUB/FUNCTION without SUB/FUNCTION
+ 041B   176C    End Module
+                    ^ Syntax error
+
+42029 Bytes Available
+40083 Bytes Free
+
+    3 Warning Error(s)
+   31 Severe  Error(s)
+
+C:\judge\TestArea>echo 1.exe 1>_qbfile_ 
+
+C:\judge\TestArea>echo nul.map 1>>_qbfile_ 
+
+C:\judge\TestArea>echo C:\judge\QB\bcom45.lib 1>>_qbfile_ 
+
+C:\judge\TestArea>C:\judge\QB\link.exe 1.obj  0<_qbfile_ 
+
+Microsoft (R) Overlay Linker  Version 3.69   
+Copyright (C) Microsoft Corp 1983-1988.  All rights reserved.
+
+Run File [1.EXE]: List File [NUL.MAP]: Libraries [.LIB]: 
+C:\judge\TestArea>erase _qbfile_ 
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file hall.out does not exist
+TESTMEM=4272128
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=24.01.2015 23:15:15
+COMPLETE=24.01.2015 23:15:15
+MAXMEMORY=4272128
+MAXTIME=156250
+TOTAL=0

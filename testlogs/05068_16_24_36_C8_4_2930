@@ -1,0 +1,36 @@
+TESTING=5068
+CREATED=29.01.2015 16:31:00
+COMPILERES=1
+COMPILECOMM=@#$
+Компилятор Microsoft (R) Visual C# 2010 версии 4.0.30319.34209
+для Microsoft (R) .NET Framework 4.5
+(C) Корпорация Майкрософт (Microsoft Corp.). Все права защищены.
+
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 4 numbers
+
+$#@
+TESTMEM=6991872
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:55:25
+TESTID=2
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * 3rd numbers differ - expected: "3", found: "0"
+
+$#@
+TESTMEM=6852608
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:55:25
+COMPLETE=29.01.2015 16:55:25
+MAXMEMORY=6991872
+MAXTIME=625000
+TOTAL=0

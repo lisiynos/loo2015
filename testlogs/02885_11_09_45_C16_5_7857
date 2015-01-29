@@ -1,0 +1,63 @@
+TESTING=2885
+CREATED=29.01.2015 16:30:18
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling circle.pas
+Linking circle.exe
+32 lines compiled, 0.1 sec , 34112 bytes code, 1820 bytes data
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 8
+
+$#@
+TESTMEM=2109440
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:36:13
+TESTID=2
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 20
+
+$#@
+TESTMEM=2125824
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 17:40:00
+TESTID=3
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * expected: "6", found: "12"
+
+$#@
+TESTMEM=2117632
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 17:40:01
+TESTID=13
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * expected: "9800", found: "5000"
+
+$#@
+TESTMEM=2125824
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 17:40:02
+TESTID=21
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * expected: "998000", found: "500000"
+
+$#@
+TESTMEM=2125824
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 17:40:04

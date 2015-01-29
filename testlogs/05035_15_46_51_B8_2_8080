@@ -1,0 +1,21 @@
+TESTING=5035
+CREATED=29.01.2015 16:30:58
+COMPILERES=1
+COMPILECOMM=@#$
+2.cpp: В функции «long long unsigned int mint(int, int, int)»:
+2.cpp:62:9: предупреждение: неиспользуемая переменная «c» [-Wunused-variable]
+2.cpp: В функции «int main()»:
+2.cpp:99:32: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 7
+
+$#@
+TESTMEM=1802240
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:54:29

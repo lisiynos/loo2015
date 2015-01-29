@@ -1,0 +1,21 @@
+TESTING=2833
+CREATED=29.01.2015 16:30:14
+COMPILERES=1
+COMPILECOMM=@#$
+5.cpp: В функции «int main()»:
+5.cpp:13:5: предупреждение: неиспользуемая переменная «A» [-Wunused-variable]
+5.cpp:13:11: предупреждение: неиспользуемая переменная «B» [-Wunused-variable]
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* ЌҐўҐа­л© ®вўҐв * expected: "8", found: "12"
+
+$#@
+TESTMEM=1794048
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:34:14
+COMPLETE=29.01.2015 16:34:14
+TOTAL=0

@@ -1,0 +1,28 @@
+TESTING=3320
+CREATED=29.01.2015 16:30:43
+COMPILERES=1
+COMPILECOMM=@#$
+Компилятор Microsoft (R) Visual Basic версии 12.0.51209.34209
+(c) Корпорация Майкрософт (Microsoft Corp.).  Все права защищены.
+
+C:\judge\TestArea\5.bas(18) : warning BC42110: Тип для переменной "ahome" не будет выведен, так как он связан с полем класса во внешней области. Измените имя "ahome" или используйте полное имя (например, "Me.ahome" или "MyBase.ahome").
+
+        For ahome = 1 To n
+            ~~~~~         
+C:\judge\TestArea\5.bas(19) : warning BC42110: Тип для переменной "bhome" не будет выведен, так как он связан с полем класса во внешней области. Измените имя "bhome" или используйте полное имя (например, "Me.bhome" или "MyBase.bhome").
+
+            For bhome = 1 To n
+                ~~~~~         
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 8
+
+$#@
+TESTMEM=8216576
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:47:41

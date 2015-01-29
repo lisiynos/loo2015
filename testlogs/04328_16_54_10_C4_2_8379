@@ -1,0 +1,24 @@
+TESTING=4328
+CREATED=29.01.2015 02:30:42
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+Z2.dpr(43) Hint: Value assigned to 'n' never used
+Z2.dpr(7) Hint: Variable 'pos' is declared but never used in 'Z2'
+Z2.dpr(7) Hint: Variable 's1' is declared but never used in 'Z2'
+Z2.dpr(7) Hint: Variable 's2' is declared but never used in 'Z2'
+Z2.dpr(7) Hint: Variable 'max' is declared but never used in 'Z2'
+Z2.dpr(45) 
+46 lines, 0.05 seconds, 33216 bytes code, 3001 bytes data.
+
+$#@
+TESTID=1
+TESTRES=8
+TESTSCORE=0
+TESTCOMM=Runtime error 1
+TESTMEM=2625536
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:49:33
+COMPLETE=29.01.2015 02:49:33
+TOTAL=0

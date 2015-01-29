@@ -1,4 +1,4 @@
-Comparing files A1_6_forest.bas and A1_6_FOREST_FIXED.BAS
+Сравнение файлов A1_6_forest.bas и A1_6_FOREST_FIXED.BAS
 ***** A1_6_forest.bas
 Module Module1
     Dim i2, i, last, n, A, K, B, M, X, virubleno, endq As Integer
@@ -18,8 +18,8 @@ Module Module1
 
 *****
 
-Comparing files forest.out and FOREST_BOM.OUT
+Сравнение файлов forest.out и FOREST_BOM.OUT
 00000000: 37 EF
-FC: FOREST_BOM.OUT longer than forest.out
+FC: FOREST_BOM.OUT длиннее, чем forest.out
 
 

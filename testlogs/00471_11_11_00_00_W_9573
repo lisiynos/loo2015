@@ -1,0 +1,228 @@
+TESTING=471
+CREATED=29.01.2015 02:31:16
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\W.exe
+
+Adding    C:\judge\TestArea\W.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 5
+
+$#@
+TESTMEM=7835648
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:53:54
+TESTID=2
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 2
+
+$#@
+TESTMEM=7798784
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:45
+TESTID=3
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 11
+
+$#@
+TESTMEM=7815168
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:47
+TESTID=4
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 11
+
+$#@
+TESTMEM=7802880
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:48
+TESTID=5
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 1100
+
+$#@
+TESTMEM=7798784
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:49
+TESTID=6
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 1110
+
+$#@
+TESTMEM=7806976
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:51
+TESTID=7
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 84
+
+$#@
+TESTMEM=7806976
+TESTTIME=937500
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:52
+TESTID=8
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 100
+
+$#@
+TESTMEM=7806976
+TESTTIME=937500
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:54
+TESTID=9
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 1998
+
+$#@
+TESTMEM=7802880
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:55
+TESTID=10
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 2000
+
+$#@
+TESTMEM=7802880
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:57
+TESTID=11
+TESTRES=1
+TESTSCORE=50.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 805
+
+$#@
+TESTMEM=7806976
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:04:58
+TESTID=12
+TESTRES=1
+TESTSCORE=10.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 2000000000
+
+$#@
+TESTMEM=7802880
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:05:00
+TESTID=13
+TESTRES=1
+TESTSCORE=10.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 1999999999
+
+$#@
+TESTMEM=7790592
+TESTTIME=937500
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:05:01
+TESTID=14
+TESTRES=1
+TESTSCORE=10.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 1111111110
+
+$#@
+TESTMEM=7811072
+TESTTIME=625000
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:05:02
+TESTID=15
+TESTRES=1
+TESTSCORE=10.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 363744957
+
+$#@
+TESTMEM=7798784
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:05:04
+TESTID=16
+TESTRES=1
+TESTSCORE=10.00000
+TESTCOMM=@#$
+.Testlib Result Number = 0
+.Result name (optional) = ok 
+.Check Comments = 1000000001
+
+$#@
+TESTMEM=7815168
+TESTTIME=937500
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 06:05:05
+COMPLETE=29.01.2015 06:05:06
+MAXMEMORY=7835648
+MAXTIME=937500
+TOTAL=100

@@ -1,0 +1,26 @@
+TESTING=3510
+CREATED=25.01.2015 16:40:22
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+Project2.dpr(30) Hint: Value assigned to 'min' never used
+Project2.dpr(25) Hint: Value assigned to 'min' never used
+Project2.dpr(17) Warning: FOR-Loop variable 'i' may be undefined after loop
+Project2.dpr(10) Hint: Value assigned to 'k' never used
+Project2.dpr(35) 
+36 lines, 0.02 seconds, 12204 bytes code, 401809 bytes data.
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0.00000
+TESTCOMM=* Неверный ответ * expected: "7", found: "503598"
+TESTMEM=2244608
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 13:01:48
+COMPLETE=25.01.2015 16:40:22
+MAXMEMORY=2244608
+MAXTIME=156250
+TOTAL=0

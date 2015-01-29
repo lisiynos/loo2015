@@ -1,0 +1,17 @@
+TESTING=478
+CREATED=29.01.2015 02:31:16
+COMPILERES=1
+COMPILECOMM=@#$
+Z.cpp: В функции «int main()»:
+Z.cpp:13:9: предупреждение: неиспользуемая переменная «minDim» [-Wunused-variable]
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=Contestant says 3, jury say 6
+TESTMEM=1757184
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:54:13
+COMPLETE=29.01.2015 02:54:13
+TOTAL=0

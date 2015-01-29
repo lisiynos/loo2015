@@ -1,0 +1,21 @@
+TESTING=338
+CREATED=27.01.2015 00:07:27
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling w.pas
+Linking w.exe
+13 lines compiled, 0.0 sec , 28176 bytes code, 1660 bytes data
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file sum.out does not exist
+TESTMEM=2129920
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=27.01.2015 00:20:56
+COMPLETE=27.01.2015 00:20:56
+TOTAL=0

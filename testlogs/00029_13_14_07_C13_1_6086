@@ -1,0 +1,26 @@
+TESTING=29
+CREATED=24.01.2015 13:25:20
+COMPILERES=1
+COMPILECOMM=@#$
+javacomp.cmd
+C:\judge\TestArea\1
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\1.exe
+
+Adding    java.class                                                  OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=14
+TESTSCORE=0
+TESTCOMM=FAILED TO TEST: Unable to invoke specified program
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=24.01.2015 13:25:21
+COMPLETE=24.01.2015 13:25:21
+TOTAL=0

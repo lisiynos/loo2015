@@ -1,0 +1,19 @@
+TESTING=309
+CREATED=27.01.2015 00:07:25
+COMPILERES=1
+COMPILECOMM=@#$
+Embarcadero Delphi for Win32 compiler version 22.0
+Copyright (c) 1983,2010 Embarcadero Technologies, Inc.
+W.dpr(3) 
+4 lines, 0.02 seconds, 15444 bytes code, 13108 bytes data.
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file sum.out does not exist
+TESTMEM=1933312
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=27.01.2015 00:18:30
+COMPLETE=27.01.2015 00:18:30
+TOTAL=0

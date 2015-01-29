@@ -1,0 +1,27 @@
+TESTING=3084
+CREATED=29.01.2015 16:30:31
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\7.exe
+
+Adding    C:\judge\TestArea\7.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 7
+
+$#@
+TESTMEM=7811072
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:42:44

@@ -1,0 +1,33 @@
+TESTING=2881
+CREATED=29.01.2015 16:30:17
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling 6.pas
+6.pas(25,5) Warning: Variable "e" does not seem to be initialized
+6.pas(3,13) Note: Local variable "n" not used
+6.pas(3,19) Note: Local variable "i" not used
+6.pas(3,21) Note: Local variable "j" not used
+Linking 6.exe
+31 lines compiled, 0.2 sec , 32240 bytes code, 1820 bytes data
+1 warning(s) issued
+3 note(s) issued
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * expected: "7", found: "6"
+
+$#@
+TESTMEM=2154496
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:36:03
+COMPLETE=29.01.2015 16:36:03
+MAXMEMORY=2154496
+MAXTIME=156250
+TOTAL=0

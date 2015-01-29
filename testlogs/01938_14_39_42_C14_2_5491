@@ -1,0 +1,21 @@
+TESTING=1938
+CREATED=25.01.2015 12:13:00
+COMPILERES=1
+COMPILECOMM=@#$
+vgd.cpp: В функции «int main()»:
+vgd.cpp:40:15: предупреждение: неиспользуемая переменная «lol» [-Wunused-variable]
+vgd.cpp:41:37: предупреждение: «imax» may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+$#@
+TESTID=1
+TESTRES=8
+TESTSCORE=0.00000
+TESTCOMM=Runtime error 3221225725
+TESTMEM=68915200
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=24.01.2015 23:10:14
+COMPLETE=25.01.2015 12:13:00
+MAXMEMORY=68915200
+MAXTIME=156250
+TOTAL=0

@@ -1,0 +1,20 @@
+TESTING=4901
+CREATED=29.01.2015 16:30:50
+COMPILERES=1
+COMPILECOMM=@#$
+dfvfgvfv.cpp: В функции «int main()»:
+dfvfgvfv.cpp:12:29: предупреждение: неиспользуемая переменная «num» [-Wunused-variable]
+dfvfgvfv.cpp:12:34: предупреждение: неиспользуемая переменная «num1» [-Wunused-variable]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 3
+
+$#@
+TESTMEM=1789952
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:50:15

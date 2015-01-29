@@ -1,0 +1,20 @@
+TESTING=3288
+CREATED=29.01.2015 16:30:41
+COMPILERES=1
+COMPILECOMM=@#$
+6.cpp: В функции «int get_day()»:
+6.cpp:39:1: предупреждение: control reaches end of non-void function [-Wreturn-type]
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* ЌҐўҐа­л© ®вўҐв * expected: "7", found: "6"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:47:07
+COMPLETE=29.01.2015 16:47:07
+TOTAL=0

@@ -1,0 +1,24 @@
+TESTING=3278
+CREATED=29.01.2015 16:30:41
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+6.dpr(34) Hint: Value assigned to 'k' never used
+6.dpr(8) Hint: Variable 'nod' is declared but never used in 'z6'
+6.dpr(8) Hint: Variable 'nok' is declared but never used in 'z6'
+6.dpr(8) Hint: Variable 's1' is declared but never used in 'z6'
+6.dpr(37) 
+38 lines, 0.05 seconds, 31336 bytes code, 2993 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 7
+
+$#@
+TESTMEM=2564096
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:46:34

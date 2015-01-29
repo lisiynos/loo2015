@@ -1,0 +1,18 @@
+TESTING=4841
+CREATED=29.01.2015 16:30:47
+COMPILERES=1
+COMPILECOMM=@#$
+1.cpp: В функции «int main()»:
+1.cpp:34:12: предупреждение: suggest explicit braces to avoid ambiguous «else» [-Wparentheses]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 3
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:48:48

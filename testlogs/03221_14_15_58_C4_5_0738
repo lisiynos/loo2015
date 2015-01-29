@@ -1,0 +1,19 @@
+TESTING=3221
+CREATED=29.01.2015 16:30:38
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+z52.dpr(11) 
+12 lines, 0.08 seconds, 29088 bytes code, 2965 bytes data.
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file circle.out does not exist
+TESTMEM=2564096
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:45:35
+COMPLETE=29.01.2015 16:45:35
+TOTAL=0

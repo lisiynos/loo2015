@@ -1,0 +1,24 @@
+TESTING=3181
+CREATED=25.01.2015 15:50:46
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling 2.pas
+2.pas(2,39) Note: Local variable "perm2" is assigned but never used
+Linking 2.exe
+54 lines compiled, 0.0 sec , 29312 bytes code, 1660 bytes data
+1 note(s) issued
+
+$#@
+TESTID=1
+TESTRES=8
+TESTSCORE=0.00000
+TESTCOMM=Runtime error 2
+TESTMEM=2170880
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 13:00:38
+COMPLETE=25.01.2015 15:50:46
+MAXMEMORY=2170880
+TOTAL=0

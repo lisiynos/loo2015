@@ -1,0 +1,23 @@
+TESTING=3381
+CREATED=25.01.2015 16:39:15
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+Project2.dpr(15) Hint: Value assigned to 'p' never used
+Project2.dpr(86) 
+87 lines, 0.27 seconds, 31780 bytes code, 803897 bytes data.
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 5 - expected: "83", found: "77"
+
+$#@
+TESTMEM=2572288
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 16:39:16
+COMPLETE=25.01.2015 16:39:16
+TOTAL=0

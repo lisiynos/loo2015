@@ -1,0 +1,28 @@
+TESTING=2610
+CREATED=26.01.2015 22:32:23
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\6.exe
+
+Adding    C:\judge\TestArea\6.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file forest.out does not exist
+TESTMEM=7811072
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=26.01.2015 22:34:31
+COMPLETE=26.01.2015 22:34:31
+MAXMEMORY=7811072
+MAXTIME=781250
+TOTAL=0

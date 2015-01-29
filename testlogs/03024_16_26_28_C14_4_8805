@@ -1,0 +1,28 @@
+TESTING=3024
+CREATED=25.01.2015 15:07:34
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\ttt.exe
+
+Adding    C:\judge\TestArea\ttt.py                                    OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0.00000
+TESTCOMM=* Формат в/в * Лишняя информация в выходном файле
+TESTMEM=7811072
+TESTTIME=468750
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 14:40:42
+COMPLETE=25.01.2015 15:07:34
+MAXMEMORY=7811072
+MAXTIME=468750
+TOTAL=0

@@ -1,0 +1,24 @@
+TESTING=4950
+CREATED=29.01.2015 16:30:53
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling prizes.pas
+prizes.pas(19,10) Warning: Variable "z" does not seem to be initialized
+Linking prizes.exe
+36 lines compiled, 0.0 sec , 29152 bytes code, 1660 bytes data
+1 warning(s) issued
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 7
+
+$#@
+TESTMEM=2117632
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:51:55

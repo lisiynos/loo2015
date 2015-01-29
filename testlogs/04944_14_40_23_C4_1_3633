@@ -1,0 +1,22 @@
+TESTING=4944
+CREATED=29.01.2015 16:30:53
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+Z1.dpr(9) Hint: Variable 'k1' is declared but never used in 'Z1'
+Z1.dpr(9) Hint: Variable 'y' is declared but never used in 'Z1'
+Z1.dpr(45) 
+46 lines, 0.03 seconds, 31540 bytes code, 2997 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 3
+
+$#@
+TESTMEM=2568192
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:51:38

@@ -1,0 +1,21 @@
+TESTING=5051
+CREATED=29.01.2015 16:30:59
+COMPILERES=1
+COMPILECOMM=@#$
+3.cpp: В функции «int main()»:
+3.cpp:30:32: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+3.cpp:50:33: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+3.cpp:55:42: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+3.cpp:72:36: предупреждение: сравнение знакового и беззнакового целых выражений [-Wsign-compare]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 6 numbers
+
+$#@
+TESTMEM=1822720
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:54:43

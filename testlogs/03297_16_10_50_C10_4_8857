@@ -1,0 +1,36 @@
+TESTING=3297
+CREATED=25.01.2015 15:51:23
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\4.exe
+
+Adding    C:\judge\TestArea\4.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=* ok * 4 numbers
+TESTMEM=7995392
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 14:12:00
+TESTID=2
+TESTRES=3
+TESTSCORE=0.00000
+TESTCOMM=* Неверный ответ * 2nd numbers differ - expected: "4", found: "1"
+TESTMEM=8024064
+TESTTIME=781250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 14:12:01
+COMPLETE=25.01.2015 15:51:23
+MAXMEMORY=8024064
+MAXTIME=781250
+TOTAL=0

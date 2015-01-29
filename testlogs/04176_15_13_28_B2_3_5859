@@ -1,0 +1,25 @@
+TESTING=4176
+CREATED=29.01.2015 02:30:35
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling 3reka.pas
+3reka.pas(12,10) Warning: Variable "a" does not seem to be initialized
+3reka.pas(16,12) Warning: Variable "ei" does not seem to be initialized
+3reka.pas(16,19) Warning: Variable "vi" does not seem to be initialized
+Linking 3reka.exe
+68 lines compiled, 0.1 sec , 31280 bytes code, 1740 bytes data
+3 warning(s) issued
+
+$#@
+TESTID=1
+TESTRES=8
+TESTSCORE=0
+TESTCOMM=Runtime error 216
+TESTMEM=2166784
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:40:21
+COMPLETE=29.01.2015 02:40:22
+TOTAL=0

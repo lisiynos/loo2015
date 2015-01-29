@@ -1,0 +1,31 @@
+TESTING=141
+CREATED=24.01.2015 14:23:14
+COMPILERES=1
+COMPILECOMM=@#$
+
+RAR 3.90   Copyright (c) 1993-2009 Alexander Roshal   16 Aug 2009
+Shareware version         Type RAR -? for help
+
+Evaluation copy. Please register.
+
+Creating archive C:\judge\TestArea\4.exe
+
+Adding    C:\judge\TestArea\4.py                                      OK 
+Done
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * 2nd numbers differ - expected: "1", found: "3"
+
+$#@
+TESTMEM=7168000
+TESTTIME=2184014
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=24.01.2015 14:23:15
+COMPLETE=24.01.2015 14:23:15
+MAXMEMORY=7168000
+MAXTIME=2184014
+TOTAL=0

@@ -1,0 +1,20 @@
+TESTING=3246
+CREATED=29.01.2015 16:30:39
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+5.dpr(27) 
+28 lines, 0.05 seconds, 31164 bytes code, 2973 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 8
+
+$#@
+TESTMEM=2568192
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:46:04

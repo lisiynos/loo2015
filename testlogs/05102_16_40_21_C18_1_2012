@@ -1,0 +1,19 @@
+TESTING=5102
+CREATED=29.01.2015 16:31:01
+COMPILERES=1
+COMPILECOMM=@#$
+1.cpp: В функции «int main()»:
+1.cpp:10:9: предупреждение: неиспользуемая переменная «x1» [-Wunused-variable]
+1.cpp:10:13: предупреждение: неиспользуемая переменная «x2» [-Wunused-variable]
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 3
+
+$#@
+TESTMEM=1806336
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 16:57:26

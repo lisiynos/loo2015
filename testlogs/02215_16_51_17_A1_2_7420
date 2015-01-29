@@ -1,0 +1,93 @@
+TESTING=2215
+CREATED=25.01.2015 12:59:52
+COMPILERES=1
+COMPILECOMM=@#$
+
+C:\judge\TestArea>rem @echo off 
+
+C:\judge\TestArea>C:\judge\QB\bc.exe 2.bas 2.obj nul.lst 
+Microsoft (R) QuickBASIC Compiler Version 4.50
+(C) Copyright Microsoft Corporation 1982-1988.
+All rights reserved.
+Simultaneously published in the U.S. and Canada.
+ 0030   0006    Module Module1
+                       ^ Equal sign missing
+ 0030   006A        Dim qw(100000) As Integer
+                                      ^ Math overflow
+ 0030   007C        Dim sloh(100000) As Integer
+                                        ^ Math overflow
+ 0033   007C        Sub Main()
+                             ^ Formal parameter specification illegal
+ 0033   007C            outPath = defaultPath & "\prizes.out"
+                                              ^ Overflow in numeric constant
+                                              ^ Type mismatch
+ 003F   0080            defaultPath = defaultPath & "\prizes.in"
+                                                  ^ Overflow in numeric constant
+ 003F   0080            f = My.Computer.FileSystem.ReadAllText(defaultPath)
+                                                                          ^ Array not dimensioned
+ 008C   00B4                t1 = t1 & f.Substring(i, 1)
+                                    ^ Overflow in numeric constant
+ 008C   00B4                If f.Substring(i, 1) = " " Then
+                                               ^ Array not dimensioned
+                                                       ^ Type mismatch
+ 00DE   029C                If f.Substring(i, 1) = "0" Or f.Substring(i, 1) = "1" Or f.Substring(i, 1) = "2" Or f.Substring(i, 1) = "3" Or f.Substring(i, 1) = "4" Or f.Substring(i, 1) = "5" Or f.Substring(i, 1) = "6" Or f.Substring(i, 1) = "7" Or f.Substring(i, 1) = "8
+                 ^ Line too long
+                                                       ^ Type mismatch
+                                                                                  ^ Type mismatch
+                                                                                                             ^ Type mismatch
+                                                                                                                                        ^ Type mismatch
+                                                                                                                                                                   ^ Type mismatch
+                                                                                                                                                                                              ^ Type mismatch
+                                                                                                                                                                                                                         ^ Type mismatch
+                                                                                                                                                                                                                                                    ^ Type mismatch
+ 00DE   029C    " Or f.Substring(i, 1) = "9" Then
+                  ^ Type mismatch
+                                             ^ Type mismatch
+ 00DE   029C                    t2 = t2 & f.Substring(i, 1)
+                                        ^ Overflow in numeric constant
+ 0164   02A4                    If f.Substring(i, 1) = " " Then
+                                                           ^ Type mismatch
+ 017B   02A4                        If Not t3 = "" Then qw(i2) = t3
+                                                   ^ Type mismatch
+ 051E   02B4            My.Computer.FileSystem.WriteAllText(outPath, max, False)
+                                                                   ^ Type mismatch
+                                                                               ^ Array not dimensioned
+                                                                                ^ Equal sign missing
+ 051E   1780        End Sub
+                        ^ END SUB/FUNCTION without SUB/FUNCTION
+ 051E   1780    End Module
+                    ^ Syntax error
+
+41837 Bytes Available
+38965 Bytes Free
+
+    3 Warning Error(s)
+   27 Severe  Error(s)
+
+C:\judge\TestArea>echo 2.exe 1>_qbfile_ 
+
+C:\judge\TestArea>echo nul.map 1>>_qbfile_ 
+
+C:\judge\TestArea>echo C:\judge\QB\bcom45.lib 1>>_qbfile_ 
+
+C:\judge\TestArea>C:\judge\QB\link.exe 2.obj  0<_qbfile_ 
+
+Microsoft (R) Overlay Linker  Version 3.69   
+Copyright (C) Microsoft Corp 1983-1988.  All rights reserved.
+
+Run File [2.EXE]: List File [NUL.MAP]: Libraries [.LIB]: 
+C:\judge\TestArea>erase _qbfile_ 
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file prizes.out does not exist
+TESTMEM=4362240
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=25.01.2015 13:04:52
+COMPLETE=25.01.2015 13:04:52
+MAXMEMORY=4362240
+MAXTIME=156250
+TOTAL=0

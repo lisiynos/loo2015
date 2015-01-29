@@ -1,0 +1,21 @@
+TESTING=4055
+CREATED=29.01.2015 02:30:29
+COMPILERES=1
+COMPILECOMM=@#$
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling a.pas
+Linking a.exe
+19 lines compiled, 0.1 sec , 28128 bytes code, 1628 bytes data
+
+$#@
+TESTID=1
+TESTRES=4
+TESTSCORE=0
+TESTCOMM=Output file hall.out does not exist
+TESTMEM=2142208
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 02:32:36
+COMPLETE=29.01.2015 02:32:37
+TOTAL=0
