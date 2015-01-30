@@ -1,16 +1,212 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<results-envelope test-datetime="26.01.2015 14:12:08" tester="testsys">
-	<results tests="1-2" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Укладка плитки">
+<results-envelope test-datetime="30.01.2015 15:36:29" tester="testsys">
+	<results tests="1-51" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Укладка плитки">
 		<incremental-results>
 			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
 			</result>
-			<result number="2" outcome="JE" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 2" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 71" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;228&quot;, found: &quot;227&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="20">
+			</result>
+			<result number="12" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="20">
+			</result>
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;952454125&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;909313056&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;282587008&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;985130437&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;439903904&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;500970475&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;132798483&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;878610982&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;859719102&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;320500744&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;843886056&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;466526982&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;746787293&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;800052823&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;813067106&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="47" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;328053605&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="48" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;399436718&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="49" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;668449549&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="50" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;974530994&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="51" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;1&quot;, found: &quot;8&quot;" score="0" max-score="2">
 			</result>
 		</incremental-results>
 		<final-results>
 			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
 			</result>
-			<result number="2" outcome="JE" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 2" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 22" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 71" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;228&quot;, found: &quot;227&quot;" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="20">
+			</result>
+			<result number="12" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="20">
+			</result>
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;952454125&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;909313056&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;282587008&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;985130437&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;439903904&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;500970475&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;132798483&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;878610982&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;859719102&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;320500744&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;843886056&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;466526982&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;746787293&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;800052823&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;813067106&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="47" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;328053605&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="48" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;399436718&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="49" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;668449549&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="50" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;974530994&quot;, found: &quot;8&quot;" score="0" max-score="2">
+			</result>
+			<result number="51" outcome="WA" pc-type="0" comment="* Неверный ответ * Numbers differ - expected: &quot;1&quot;, found: &quot;8&quot;" score="0" max-score="2">
 			</result>
 		</final-results>
 	</results>

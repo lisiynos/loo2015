@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<results-envelope test-datetime="26.01.2015 13:45:37" tester="testsys">
+<results-envelope test-datetime="30.01.2015 15:36:03" tester="testsys">
 	<results tests="1-51" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Укладка плитки">
 		<incremental-results>
 			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">

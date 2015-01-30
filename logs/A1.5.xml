@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<results-envelope test-datetime="26.01.2015 14:59:27" tester="testsys">
+<results-envelope test-datetime="30.01.2015 15:37:16" tester="testsys">
 	<results tests="1-29" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Кольцевая линия">
 		<incremental-results>
 			<result number="1" outcome="OK" pc-type="0" comment="* ok * 8" score="0" max-score="0">
@@ -26,7 +26,7 @@
 			</result>
 			<result number="12" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
 			</result>
-			<result number="13" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			<result number="13" outcome="IL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
 			<result number="14" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
 			</result>
@@ -42,7 +42,7 @@
 			</result>
 			<result number="20" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
 			</result>
-			<result number="21" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			<result number="21" outcome="IL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
 			<result number="22" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
 			</result>
@@ -86,7 +86,7 @@
 			</result>
 			<result number="12" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
 			</result>
-			<result number="13" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			<result number="13" outcome="IL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
 			<result number="14" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
 			</result>
@@ -102,7 +102,7 @@
 			</result>
 			<result number="20" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="25">
 			</result>
-			<result number="21" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
+			<result number="21" outcome="IL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
 			<result number="22" outcome="RT" pc-type="0" comment="Runtime error 3762504530" score="0" max-score="0">
 			</result>
