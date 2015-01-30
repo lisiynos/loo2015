@@ -2,13 +2,13 @@ Visual Basic BOM
 ================
 
 Компилятор Visual Basic .NET 4.5 при вызове:
-My.Computer.FileSystem.WriteAllText(outPath, endq & vbNewLine, False)
+My.Computer.FileSystem.WriteAllText(outPath, endq & vbNewLine, False).
 
 добавляет в начало текстового файла так называемую BOM-сигнатуру:
 символы с шетнадцатеричными кодами 37 EF.
 
 Проверяющая система открывает выходной файл как обычный текстовый ASCII-файл и не может его прочитать.
-При этом она возвращает ошибку участнику: PE (Presentation error): * Формат в/в * invalid character in answer
+При этом она возвращает ошибку участнику: PE (Presentation error): * Формат в/в * invalid character in answer.
 
 Приложенные файлы:
 ------------------
