@@ -83,7 +83,7 @@ Module Module1
         End If
 
         ' My.Computer.FileSystem.WriteAllText(outPath, max, False)
-         
+        File.WriteAllText(outPath, max) 
     End Sub
 
 End Module

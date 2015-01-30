@@ -1,3 +1,4 @@
+Imports System.IO
 Module Module1
     Dim f, t1, t2, t3, t4, defaultPath, outPath As String
     Dim i, i2, i3, last, A, B, C, D, chZAL, povtZAL As Integer
@@ -47,7 +48,8 @@ Module Module1
 
         cacl()
 
-        My.Computer.FileSystem.WriteAllText(outPath, povtZAL, False)
+        ' My.Computer.FileSystem.WriteAllText(outPath, povtZAL, False)
+        File.WriteAllText(outPath, povtZAL)
     End Sub
     Sub cacl()
         For i = 1 To B
