@@ -1,0 +1,8 @@
+f = open("sumsqr.in")
+s = f.read().split()
+f.close()
+a = int(s[0])
+b = int(s[1])
+f = open("sumsqr.out", "w")
+f.write(str(a * a + b * b))
+f.close()
