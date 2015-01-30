@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 04:03:05" tester="testsys">
+	<results tests="1-28" max-score="0" score="100" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Чемпионат по поиску">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 450 numbers" score="3" max-score="3">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 1000 numbers" score="3" max-score="3">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 526 numbers" score="3" max-score="3">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 511 numbers" score="3" max-score="3">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 1000 numbers" score="3" max-score="3">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 777 numbers" score="3" max-score="3">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 888 numbers" score="3" max-score="3">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 1000 numbers" score="3" max-score="3">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 61 numbers" score="3" max-score="3">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 45241 numbers" score="5" max-score="5">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 34287 numbers" score="5" max-score="5">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 49986 numbers" score="5" max-score="5">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 3906 numbers" score="4" max-score="4">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 44481 numbers" score="4" max-score="4">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 46582 numbers" score="4" max-score="4">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="22" outcome="OK" pc-type="0" comment="* ok * 40445 numbers" score="4" max-score="4">
+			</result>
+			<result number="23" outcome="OK" pc-type="0" comment="* ok * 43645 numbers" score="4" max-score="4">
+			</result>
+			<result number="24" outcome="OK" pc-type="0" comment="* ok * 10000 numbers" score="4" max-score="4">
+			</result>
+			<result number="25" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 5000 numbers" score="4" max-score="4">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="28" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 450 numbers" score="3" max-score="3">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 1000 numbers" score="3" max-score="3">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 526 numbers" score="3" max-score="3">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 511 numbers" score="3" max-score="3">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 1000 numbers" score="3" max-score="3">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 777 numbers" score="3" max-score="3">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 888 numbers" score="3" max-score="3">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 1000 numbers" score="3" max-score="3">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 61 numbers" score="3" max-score="3">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 45241 numbers" score="5" max-score="5">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 34287 numbers" score="5" max-score="5">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 49986 numbers" score="5" max-score="5">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 3906 numbers" score="4" max-score="4">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 44481 numbers" score="4" max-score="4">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 46582 numbers" score="4" max-score="4">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="22" outcome="OK" pc-type="0" comment="* ok * 40445 numbers" score="4" max-score="4">
+			</result>
+			<result number="23" outcome="OK" pc-type="0" comment="* ok * 43645 numbers" score="4" max-score="4">
+			</result>
+			<result number="24" outcome="OK" pc-type="0" comment="* ok * 10000 numbers" score="4" max-score="4">
+			</result>
+			<result number="25" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 5000 numbers" score="4" max-score="4">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+			<result number="28" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="4" max-score="4">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

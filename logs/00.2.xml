@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 04:03:04" tester="testsys">
+	<results tests="1-48" max-score="0" score="100" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Призы">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 503598" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 487398" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 908559" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 95705" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 649345" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 710751" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 1600000" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 483452" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 640254" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 1500001" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 100015" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 999999" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 699999" score="30" max-score="30">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 81627737" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 22115476" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 55477005" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 99984" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 99983" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 99995" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 99964" score="0" max-score="0">
+			</result>
+			<result number="22" outcome="OK" pc-type="0" comment="* ok * 99954" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="OK" pc-type="0" comment="* ok * 83303781" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="OK" pc-type="0" comment="* ok * 82538857" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="OK" pc-type="0" comment="* ok * 166600000" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 4118863" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 50318330" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="OK" pc-type="0" comment="* ok * 166500001" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="OK" pc-type="0" comment="* ok * 101665" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="OK" pc-type="0" comment="* ok * 99999999" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="OK" pc-type="0" comment="* ok * 6999999" score="30" max-score="30">
+			</result>
+			<result number="32" outcome="OK" pc-type="0" comment="* ok * 15715881672530" score="0" max-score="0">
+			</result>
+			<result number="33" outcome="OK" pc-type="0" comment="* ok * 6508912844080" score="0" max-score="0">
+			</result>
+			<result number="34" outcome="OK" pc-type="0" comment="* ok * 1882181718218" score="0" max-score="0">
+			</result>
+			<result number="35" outcome="OK" pc-type="0" comment="* ok * 999966914" score="0" max-score="0">
+			</result>
+			<result number="36" outcome="OK" pc-type="0" comment="* ok * 999992773" score="0" max-score="0">
+			</result>
+			<result number="37" outcome="OK" pc-type="0" comment="* ok * 999994032" score="0" max-score="0">
+			</result>
+			<result number="38" outcome="OK" pc-type="0" comment="* ok * 999994165" score="0" max-score="0">
+			</result>
+			<result number="39" outcome="OK" pc-type="0" comment="* ok * 999991585" score="0" max-score="0">
+			</result>
+			<result number="40" outcome="OK" pc-type="0" comment="* ok * 16681866331486" score="0" max-score="0">
+			</result>
+			<result number="41" outcome="OK" pc-type="0" comment="* ok * 16567500717309" score="0" max-score="0">
+			</result>
+			<result number="42" outcome="OK" pc-type="0" comment="* ok * 33333000000000" score="0" max-score="0">
+			</result>
+			<result number="43" outcome="OK" pc-type="0" comment="* ok * 174403175333" score="0" max-score="0">
+			</result>
+			<result number="44" outcome="OK" pc-type="0" comment="* ok * 10038895913532" score="0" max-score="0">
+			</result>
+			<result number="45" outcome="OK" pc-type="0" comment="* ok * 33332000000001" score="0" max-score="0">
+			</result>
+			<result number="46" outcome="OK" pc-type="0" comment="* ok * 1000033332" score="0" max-score="0">
+			</result>
+			<result number="47" outcome="OK" pc-type="0" comment="* ok * 19999999999999" score="0" max-score="0">
+			</result>
+			<result number="48" outcome="OK" pc-type="0" comment="* ok * 315999999999" score="40" max-score="40">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 503598" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 487398" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 908559" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 95705" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 649345" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 710751" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 1600000" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 483452" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 640254" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 1500001" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 100015" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 999999" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 699999" score="30" max-score="30">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 81627737" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 22115476" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 55477005" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 99984" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 99983" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 99995" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 99964" score="0" max-score="0">
+			</result>
+			<result number="22" outcome="OK" pc-type="0" comment="* ok * 99954" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="OK" pc-type="0" comment="* ok * 83303781" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="OK" pc-type="0" comment="* ok * 82538857" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="OK" pc-type="0" comment="* ok * 166600000" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 4118863" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 50318330" score="0" max-score="0">
+			</result>
+			<result number="28" outcome="OK" pc-type="0" comment="* ok * 166500001" score="0" max-score="0">
+			</result>
+			<result number="29" outcome="OK" pc-type="0" comment="* ok * 101665" score="0" max-score="0">
+			</result>
+			<result number="30" outcome="OK" pc-type="0" comment="* ok * 99999999" score="0" max-score="0">
+			</result>
+			<result number="31" outcome="OK" pc-type="0" comment="* ok * 6999999" score="30" max-score="30">
+			</result>
+			<result number="32" outcome="OK" pc-type="0" comment="* ok * 15715881672530" score="0" max-score="0">
+			</result>
+			<result number="33" outcome="OK" pc-type="0" comment="* ok * 6508912844080" score="0" max-score="0">
+			</result>
+			<result number="34" outcome="OK" pc-type="0" comment="* ok * 1882181718218" score="0" max-score="0">
+			</result>
+			<result number="35" outcome="OK" pc-type="0" comment="* ok * 999966914" score="0" max-score="0">
+			</result>
+			<result number="36" outcome="OK" pc-type="0" comment="* ok * 999992773" score="0" max-score="0">
+			</result>
+			<result number="37" outcome="OK" pc-type="0" comment="* ok * 999994032" score="0" max-score="0">
+			</result>
+			<result number="38" outcome="OK" pc-type="0" comment="* ok * 999994165" score="0" max-score="0">
+			</result>
+			<result number="39" outcome="OK" pc-type="0" comment="* ok * 999991585" score="0" max-score="0">
+			</result>
+			<result number="40" outcome="OK" pc-type="0" comment="* ok * 16681866331486" score="0" max-score="0">
+			</result>
+			<result number="41" outcome="OK" pc-type="0" comment="* ok * 16567500717309" score="0" max-score="0">
+			</result>
+			<result number="42" outcome="OK" pc-type="0" comment="* ok * 33333000000000" score="0" max-score="0">
+			</result>
+			<result number="43" outcome="OK" pc-type="0" comment="* ok * 174403175333" score="0" max-score="0">
+			</result>
+			<result number="44" outcome="OK" pc-type="0" comment="* ok * 10038895913532" score="0" max-score="0">
+			</result>
+			<result number="45" outcome="OK" pc-type="0" comment="* ok * 33332000000001" score="0" max-score="0">
+			</result>
+			<result number="46" outcome="OK" pc-type="0" comment="* ok * 1000033332" score="0" max-score="0">
+			</result>
+			<result number="47" outcome="OK" pc-type="0" comment="* ok * 19999999999999" score="0" max-score="0">
+			</result>
+			<result number="48" outcome="OK" pc-type="0" comment="* ok * 315999999999" score="40" max-score="40">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

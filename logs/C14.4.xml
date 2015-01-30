@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 04:53:12" tester="testsys">
+	<results tests="1-28" max-score="0" score="25" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Чемпионат по поиску">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="4" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="5" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="6" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="7" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="8" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="9" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="10" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="11" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 45241 numbers" score="5" max-score="5">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 34287 numbers" score="5" max-score="5">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 49986 numbers" score="5" max-score="5">
+			</result>
+			<result number="17" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="4">
+			</result>
+			<result number="18" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="4">
+			</result>
+			<result number="19" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;8305&quot;, found: &quot;273&quot;" score="0" max-score="4">
+			</result>
+			<result number="20" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;9&quot;, found: &quot;1&quot;" score="0" max-score="4">
+			</result>
+			<result number="21" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;351&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;7&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="23" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;6&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="24" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;2&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="25" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;2&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="26" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="27" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="28" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="4" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="5" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="6" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="7" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="8" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="9" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="10" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			</result>
+			<result number="11" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 45241 numbers" score="5" max-score="5">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 50000 numbers" score="5" max-score="5">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 34287 numbers" score="5" max-score="5">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 49986 numbers" score="5" max-score="5">
+			</result>
+			<result number="17" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="4">
+			</result>
+			<result number="18" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;4&quot;, found: &quot;1&quot;" score="0" max-score="4">
+			</result>
+			<result number="19" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;8305&quot;, found: &quot;273&quot;" score="0" max-score="4">
+			</result>
+			<result number="20" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;9&quot;, found: &quot;1&quot;" score="0" max-score="4">
+			</result>
+			<result number="21" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;351&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;7&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="23" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;6&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="24" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;2&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="25" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;2&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="26" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="27" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+			<result number="28" outcome="WA" pc-type="0" comment="* Неверный ответ * 1st numbers differ - expected: &quot;1&quot;, found: &quot;0&quot;" score="0" max-score="4">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

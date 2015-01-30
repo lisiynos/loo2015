@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 12:56:40" tester="testsys">
+	<results tests="1-28" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Чемпионат по поиску">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="4" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="5" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="6" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="7" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="8" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="9" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="10" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="11" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="12" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="13" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="14" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="15" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="16" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="17" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="18" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="19" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="20" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="21" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="22" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="23" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="24" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="25" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="26" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="27" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="28" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 4 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="4" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="5" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="6" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="7" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="8" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="9" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="10" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="11" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="3">
+			</result>
+			<result number="12" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="13" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="14" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="15" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="16" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="5">
+			</result>
+			<result number="17" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="18" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="19" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="20" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="21" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="22" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="23" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="24" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="25" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="26" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="27" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+			<result number="28" outcome="PE" pc-type="0" comment="* Формат в/в * Неожиданный конец файла" score="0" max-score="4">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

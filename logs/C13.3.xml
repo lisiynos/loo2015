@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 15:25:45" tester="testsys">
+	<results tests="1-27" max-score="0" score="100" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Река">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="30" max-score="30">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="30" max-score="30">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="20" max-score="20">
+			</result>
+			<result number="22" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="20" max-score="20">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 100 numbers" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="30" max-score="30">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="30" max-score="30">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 100000 numbers" score="20" max-score="20">
+			</result>
+			<result number="22" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="OK" pc-type="0" comment="* ok * 100001 numbers" score="20" max-score="20">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 14:31:23" tester="testsys">
+	<results tests="1-27" max-score="0" score="0" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Река">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="30">
+			</result>
+			<result number="12" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="TL" pc-type="0" comment="" score="0" max-score="30">
+			</result>
+			<result number="17" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 6 numbers" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 101 numbers" score="0" max-score="30">
+			</result>
+			<result number="12" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="TL" pc-type="0" comment="" score="0" max-score="30">
+			</result>
+			<result number="17" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="RT" pc-type="0" comment="Runtime error 1" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="24" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="25" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="26" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			</result>
+			<result number="27" outcome="TL" pc-type="0" comment="" score="0" max-score="20">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>

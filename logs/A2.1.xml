@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<results-envelope test-datetime="30.01.2015 04:03:11" tester="testsys">
+	<results tests="1-46" max-score="0" score="50" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Выбор зала">
+		<incremental-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 3" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 1" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 20" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 24" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 25" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 125" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 188" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 679" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 679" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 3047" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 12" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 4" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 26" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 28" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 468" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 313" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 92" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 92" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 44" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 192" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 49" score="50" max-score="50">
+			</result>
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;6485514&quot;, found: &quot;2107572&quot;" score="0" max-score="2">
+			</result>
+			<result number="23" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;76364260&quot;, found: &quot;9581541&quot;" score="0" max-score="2">
+			</result>
+			<result number="24" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;756858469&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="25" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1967862581&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="26" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1660602414&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="27" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1528802399&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="28" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1956004244&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="29" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;984840402&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="30" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;595873722&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="31" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;692606090&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;383787982&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;809464401&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;358119674&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;138735896&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;241940555&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4476904534&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4578458114&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4648284270&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4456637739&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4804716790&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4323569556&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4673048624&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;5198263743&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;3258489429&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;9938864625&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+		</incremental-results>
+		<final-results>
+			<result number="1" outcome="OK" pc-type="0" comment="* ok * 3" score="0" max-score="0">
+			</result>
+			<result number="2" outcome="OK" pc-type="0" comment="* ok * 1" score="0" max-score="0">
+			</result>
+			<result number="3" outcome="OK" pc-type="0" comment="* ok * 20" score="0" max-score="0">
+			</result>
+			<result number="4" outcome="OK" pc-type="0" comment="* ok * 24" score="0" max-score="0">
+			</result>
+			<result number="5" outcome="OK" pc-type="0" comment="* ok * 25" score="0" max-score="0">
+			</result>
+			<result number="6" outcome="OK" pc-type="0" comment="* ok * 125" score="0" max-score="0">
+			</result>
+			<result number="7" outcome="OK" pc-type="0" comment="* ok * 188" score="0" max-score="0">
+			</result>
+			<result number="8" outcome="OK" pc-type="0" comment="* ok * 679" score="0" max-score="0">
+			</result>
+			<result number="9" outcome="OK" pc-type="0" comment="* ok * 679" score="0" max-score="0">
+			</result>
+			<result number="10" outcome="OK" pc-type="0" comment="* ok * 3047" score="0" max-score="0">
+			</result>
+			<result number="11" outcome="OK" pc-type="0" comment="* ok * 12" score="0" max-score="0">
+			</result>
+			<result number="12" outcome="OK" pc-type="0" comment="* ok * 4" score="0" max-score="0">
+			</result>
+			<result number="13" outcome="OK" pc-type="0" comment="* ok * 26" score="0" max-score="0">
+			</result>
+			<result number="14" outcome="OK" pc-type="0" comment="* ok * 28" score="0" max-score="0">
+			</result>
+			<result number="15" outcome="OK" pc-type="0" comment="* ok * 468" score="0" max-score="0">
+			</result>
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 313" score="0" max-score="0">
+			</result>
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 92" score="0" max-score="0">
+			</result>
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 92" score="0" max-score="0">
+			</result>
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 44" score="0" max-score="0">
+			</result>
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 192" score="0" max-score="0">
+			</result>
+			<result number="21" outcome="OK" pc-type="0" comment="* ok * 49" score="50" max-score="50">
+			</result>
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;6485514&quot;, found: &quot;2107572&quot;" score="0" max-score="2">
+			</result>
+			<result number="23" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;76364260&quot;, found: &quot;9581541&quot;" score="0" max-score="2">
+			</result>
+			<result number="24" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;756858469&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="25" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1967862581&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="26" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1660602414&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="27" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1528802399&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="28" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1956004244&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="29" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;984840402&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="30" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;595873722&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="31" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;692606090&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;383787982&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;809464401&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;358119674&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;138735896&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;241940555&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="37" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4476904534&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="38" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4578458114&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="39" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4648284270&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="40" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4456637739&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="41" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4804716790&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="42" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4323569556&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="43" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;4673048624&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="44" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;5198263743&quot;, found: &quot;0&quot;" score="0" max-score="2">
+			</result>
+			<result number="45" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;3258489429&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+			<result number="46" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;9938864625&quot;, found: &quot;12502500&quot;" score="0" max-score="2">
+			</result>
+		</final-results>
+	</results>
+</results-envelope>
