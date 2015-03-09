@@ -1,5 +1,7 @@
 @echo off
 
+SET PATH=C:\Python34;C:\CodeBlocks\MinGW\bin;%PATH%
+
 echo Compiling checker
 dcc32 -U..\..\lib -cc check.dpr
 
@@ -89,7 +91,12 @@ for %%i in (preliminary, tests\subtask1, tests\subtask2, tests\subtask3, tests\s
         echo Saving answer for test %%j
         copy transform.out %%j.a > nul
     )
+    move %%i\* tests
+    rmdir %%i
 )
 
+echo Copy checker to tests
+copy check.* tests
+copy task.cfg tests
 
 :end

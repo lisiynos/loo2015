@@ -23,7 +23,7 @@ public class TransformTestGen {
 		this.countTests = 0;
 		generateSamples();
 
-		this.countTests = 0;
+		// this.countTests = 0; // TestSys
 		generateSubtask1();
 		generateSubtask2();
 		generateSubtask3();
