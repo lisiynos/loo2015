@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<results-envelope test-datetime="26.01.2015 14:05:01" tester="testsys">
-	<results tests="1-42" max-score="0" score="44" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Вырубка леса">
+<results-envelope test-datetime="30.01.2015 15:36:12" tester="testsys">
+	<results tests="1-42" max-score="0" score="48" bonus-score="0" time-limit="0" memory-limit="0" complete="true" problem-name="Вырубка леса">
 		<incremental-results>
 			<result number="1" outcome="OK" pc-type="0" comment="* ok * 7" score="0" max-score="0">
 			</result>
@@ -32,19 +32,19 @@
 			</result>
 			<result number="15" outcome="OK" pc-type="0" comment="* ok * 2" score="32" max-score="32">
 			</result>
-			<result number="16" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 333333333333333333" score="0" max-score="0">
 			</result>
-			<result number="17" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 500000000" score="0" max-score="0">
 			</result>
-			<result number="18" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 5714285714285709" score="0" max-score="0">
 			</result>
-			<result number="19" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 5714285714285710" score="0" max-score="0">
 			</result>
-			<result number="20" outcome="OK" pc-type="0" comment="* ok * 1" score="0" max-score="10">
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 1" score="10" max-score="10">
 			</result>
 			<result number="21" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
-			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1700680272278702&quot;, found: &quot;1700680544897540&quot;" score="0" max-score="0">
 			</result>
 			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
@@ -62,17 +62,17 @@
 			</result>
 			<result number="30" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
 			</result>
-			<result number="31" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="31" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;6095787948794&quot;, found: &quot;4063858632530&quot;" score="0" max-score="3">
 			</result>
-			<result number="32" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;500000000&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="33" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;500000000000000002&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="34" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1000000001&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="35" outcome="OK" pc-type="0" comment="* ok * 411181" score="3" max-score="3">
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;411181&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="36" outcome="OK" pc-type="0" comment="* ok * 411182" score="3" max-score="3">
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;411182&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
 			<result number="37" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
 			</result>
@@ -118,19 +118,19 @@
 			</result>
 			<result number="15" outcome="OK" pc-type="0" comment="* ok * 2" score="32" max-score="32">
 			</result>
-			<result number="16" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="16" outcome="OK" pc-type="0" comment="* ok * 333333333333333333" score="0" max-score="0">
 			</result>
-			<result number="17" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="17" outcome="OK" pc-type="0" comment="* ok * 500000000" score="0" max-score="0">
 			</result>
-			<result number="18" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="18" outcome="OK" pc-type="0" comment="* ok * 5714285714285709" score="0" max-score="0">
 			</result>
-			<result number="19" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="19" outcome="OK" pc-type="0" comment="* ok * 5714285714285710" score="0" max-score="0">
 			</result>
-			<result number="20" outcome="OK" pc-type="0" comment="* ok * 1" score="0" max-score="10">
+			<result number="20" outcome="OK" pc-type="0" comment="* ok * 1" score="10" max-score="10">
 			</result>
 			<result number="21" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
-			<result number="22" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
+			<result number="22" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1700680272278702&quot;, found: &quot;1700680544897540&quot;" score="0" max-score="0">
 			</result>
 			<result number="23" outcome="TL" pc-type="0" comment="" score="0" max-score="0">
 			</result>
@@ -148,17 +148,17 @@
 			</result>
 			<result number="30" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
 			</result>
-			<result number="31" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="31" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;6095787948794&quot;, found: &quot;4063858632530&quot;" score="0" max-score="3">
 			</result>
-			<result number="32" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="32" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;500000000&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="33" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="33" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;500000000000000002&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="34" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
+			<result number="34" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;1000000001&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="35" outcome="OK" pc-type="0" comment="* ok * 411181" score="3" max-score="3">
+			<result number="35" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;411181&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
-			<result number="36" outcome="OK" pc-type="0" comment="* ok * 411182" score="3" max-score="3">
+			<result number="36" outcome="WA" pc-type="0" comment="* Неверный ответ * expected: &quot;411182&quot;, found: &quot;0&quot;" score="0" max-score="3">
 			</result>
 			<result number="37" outcome="TL" pc-type="0" comment="" score="0" max-score="3">
 			</result>

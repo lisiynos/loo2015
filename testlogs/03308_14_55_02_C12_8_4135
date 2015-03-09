@@ -12,3 +12,799 @@ $#@
 TESTMEM=1781760
 TESTJUDGEDBY=Generic Judge
 TESTJUDGEDAT=29.01.2015 16:47:26
+TESTID=2
+TESTRES=1
+TESTSCORE=0.00000
+TESTCOMM=@#$
+* ok * 6 numbers
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 23:02:27
+TESTID=3
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * too many numbers
+
+$#@
+TESTMEM=1781760
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 23:02:28
+TESTID=22
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 23:02:30
+TESTID=38
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 23:02:31
+TESTID=52
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "6", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=29.01.2015 23:02:32
+TESTID=4
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:32
+TESTID=5
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "3", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:32
+TESTID=6
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:32
+TESTID=7
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "3", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:32
+TESTID=8
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 4 - expected: "3", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:33
+TESTID=9
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "4", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:33
+TESTID=10
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:33
+TESTID=11
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 5 - expected: "4", found: "3"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:33
+TESTID=12
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 5 - expected: "0", found: "3"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:34
+TESTID=13
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "4", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:34
+TESTID=14
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "6", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:34
+TESTID=15
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "50", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:34
+TESTID=16
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:34
+TESTID=17
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "50", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:35
+TESTID=18
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "25", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:35
+TESTID=19
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "5", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:35
+TESTID=20
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1789952
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:36
+TESTID=21
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 5 - expected: "0", found: "3"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:36
+TESTID=23
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "300", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:36
+TESTID=24
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "300", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:36
+TESTID=25
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 5 - expected: "0", found: "3"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:37
+TESTID=26
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:37
+TESTID=27
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "18", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:38
+TESTID=28
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "92", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:38
+TESTID=29
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "4", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:38
+TESTID=30
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "150", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:38
+TESTID=31
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "3", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:39
+TESTID=32
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "5", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:39
+TESTID=33
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:39
+TESTID=34
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:39
+TESTID=35
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:40
+TESTID=36
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:40
+TESTID=37
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:40
+TESTID=39
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "2000", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:40
+TESTID=40
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "500", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:41
+TESTID=41
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "4", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:41
+TESTID=42
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "83", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:41
+TESTID=43
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "447", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:42
+TESTID=44
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "14", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:42
+TESTID=45
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:42
+TESTID=46
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:42
+TESTID=47
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "4", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:43
+TESTID=48
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "1395", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:43
+TESTID=49
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 3 - expected: "1", found: "0"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:43
+TESTID=50
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 5 - expected: "0", found: "3"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:43
+TESTID=51
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 4 - expected: "3", found: "0"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:44
+TESTID=53
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "3", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:44
+TESTID=54
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "4", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:44
+TESTID=55
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "6", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:45
+TESTID=56
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "6", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:45
+TESTID=57
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "6", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:45
+TESTID=58
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "7", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:45
+TESTID=59
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "8", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:46
+TESTID=60
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "9", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:46
+TESTID=61
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "10", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:46
+TESTID=62
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "12", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:46
+TESTID=63
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "1997002", found: "7"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:47
+TESTID=64
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "2000", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:47
+TESTID=65
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "200", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:47
+TESTID=66
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "200", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:47
+TESTID=67
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "19702", found: "7"
+
+$#@
+TESTMEM=1789952
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:48
+TESTID=68
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "19702", found: "7"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:48
+TESTID=69
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "19701", found: "7"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:48
+TESTID=70
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "100", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:48
+TESTID=71
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "1997002", found: "7"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:49
+TESTID=72
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "1997002", found: "7"
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:49
+TESTID=73
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "2000", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:49
+TESTID=74
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "1999", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:50
+TESTID=75
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "299", found: "1"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:50
+TESTID=76
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 1 - expected: "3", found: "1"
+
+$#@
+TESTMEM=1785856
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:50
+TESTID=77
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "35246", found: "7"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:50
+TESTID=78
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "36047", found: "7"
+
+$#@
+TESTMEM=1781760
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:51
+TESTID=79
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+* Неверный ответ * number 2 - expected: "1523386", found: "7"
+
+$#@
+TESTMEM=1785856
+TESTTIME=156250
+TESTJUDGEDBY=Generic Judge
+TESTJUDGEDAT=30.01.2015 03:05:51
+COMPLETE=30.01.2015 03:05:51
+MAXMEMORY=1789952
+MAXTIME=156250
+TOTAL=0

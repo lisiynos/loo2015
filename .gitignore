@@ -6,3 +6,5 @@
 *.out
 *.dat
 testlogs
+ioilogs
+ioisols
