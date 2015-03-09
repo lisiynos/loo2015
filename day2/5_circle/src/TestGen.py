@@ -29,7 +29,7 @@ class TestGen:
 
         self.generate_samples() 
 
-        self.test_number = 0
+        # self.test_number = 0 # Prelimitary - TestSys
         
         # First subtask: n <= 50
         self.print_test(3, subtask=1)
