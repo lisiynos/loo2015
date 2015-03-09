@@ -181,7 +181,7 @@ class TestGen:
 
     def generate_all_tests(self):
         self.generate_samples() 
-        self.test_number = 0
+        # self.test_number = 0 # TestSys tests
         
         #First group of tests
         self.generate_first_group_of_tests("/subtask1")

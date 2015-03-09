@@ -1,51 +1,51 @@
 ../preliminary/01 n = 2, k = 0
 ../preliminary/02 n = 3, k = 0
 ../preliminary/03 n = 3, k = 1, wrong cells are only in the upper row
-../tests/subtask1/01 n = 1, k = 0
-../tests/subtask1/02 n = 2, k = 0
-../tests/subtask1/03 n = 3, k = 0
-../tests/subtask1/04 n = 4, k = 0
-../tests/subtask1/05 n = 5, k = 0
-../tests/subtask1/06 n = 6, k = 0
-../tests/subtask1/07 n = 7, k = 0
-../tests/subtask1/08 n = 8, k = 0
-../tests/subtask2/09 n = 143, k = 0
-../tests/subtask2/10 n = 220, k = 0
-../tests/subtask2/11 n = 362, k = 0
-../tests/subtask2/12 n = 478, k = 0
-../tests/subtask2/13 n = 598, k = 0
-../tests/subtask2/14 n = 996, k = 0
-../tests/subtask2/15 n = 997, k = 0
-../tests/subtask2/16 n = 998, k = 0
-../tests/subtask2/17 n = 999, k = 0
-../tests/subtask2/18 n = 1000, k = 0
-../tests/subtask3/19 n = 13971, k = 0
-../tests/subtask3/20 n = 50708, k = 0
-../tests/subtask3/21 n = 45727, k = 0
-../tests/subtask3/22 n = 47846, k = 0
-../tests/subtask3/23 n = 39510, k = 0
-../tests/subtask3/24 n = 99996, k = 0
-../tests/subtask3/25 n = 99997, k = 0
-../tests/subtask3/26 n = 99998, k = 0
-../tests/subtask3/27 n = 99999, k = 0
-../tests/subtask3/28 n = 100000, k = 0
-../tests/subtask4/29 n = 100000, k = 614, wrong cells are only in the upper row
-../tests/subtask4/30 n = 100000, k = 629, wrong cells are only in the upper row
-../tests/subtask4/31 n = 1000, k = 733, wrong cells are only in the upper row
-../tests/subtask4/32 n = 10000, k = 2659, wrong cells are only in the upper row
-../tests/subtask4/33 n = 100000, k = 14439, wrong cells are only in the upper row
-../tests/subtask4/34 n = 1000, k = 656, no vertical dominoes
-../tests/subtask4/35 n = 10000, k = 6662, no vertical dominoes
-../tests/subtask4/36 n = 50000, k = 33292, no vertical dominoes
-../tests/subtask4/37 n = 100000, k = 66566, no vertical dominoes
-../tests/subtask4/38 n = 100000, k = 66759, no vertical dominoes
-../tests/subtask4/39 n = 100000, k = 1254, only vertical dominoes
-../tests/subtask4/40 n = 100000, k = 85504, only vertical dominoes
-../tests/subtask4/41 n = 1000, k = 1007, all types of bad cells
-../tests/subtask4/42 n = 10000, k = 9935, all types of bad cells
-../tests/subtask4/43 n = 50000, k = 50317, all types of bad cells
-../tests/subtask4/44 n = 50000, k = 49897, all types of bad cells
-../tests/subtask4/45 n = 100000, k = 99794, all types of bad cells
-../tests/subtask4/46 n = 100000, k = 100013, all types of bad cells
-../tests/subtask4/47 n = 100000, k = 99761, all types of bad cells
-../tests/subtask4/48 n = 100000, k = 150000, test with answer equal to 1
+../tests/subtask1/04 n = 1, k = 0
+../tests/subtask1/05 n = 2, k = 0
+../tests/subtask1/06 n = 3, k = 0
+../tests/subtask1/07 n = 4, k = 0
+../tests/subtask1/08 n = 5, k = 0
+../tests/subtask1/09 n = 6, k = 0
+../tests/subtask1/10 n = 7, k = 0
+../tests/subtask1/11 n = 8, k = 0
+../tests/subtask2/12 n = 143, k = 0
+../tests/subtask2/13 n = 220, k = 0
+../tests/subtask2/14 n = 362, k = 0
+../tests/subtask2/15 n = 478, k = 0
+../tests/subtask2/16 n = 598, k = 0
+../tests/subtask2/17 n = 996, k = 0
+../tests/subtask2/18 n = 997, k = 0
+../tests/subtask2/19 n = 998, k = 0
+../tests/subtask2/20 n = 999, k = 0
+../tests/subtask2/21 n = 1000, k = 0
+../tests/subtask3/22 n = 13971, k = 0
+../tests/subtask3/23 n = 50708, k = 0
+../tests/subtask3/24 n = 45727, k = 0
+../tests/subtask3/25 n = 47846, k = 0
+../tests/subtask3/26 n = 39510, k = 0
+../tests/subtask3/27 n = 99996, k = 0
+../tests/subtask3/28 n = 99997, k = 0
+../tests/subtask3/29 n = 99998, k = 0
+../tests/subtask3/30 n = 99999, k = 0
+../tests/subtask3/31 n = 100000, k = 0
+../tests/subtask4/32 n = 100000, k = 614, wrong cells are only in the upper row
+../tests/subtask4/33 n = 100000, k = 629, wrong cells are only in the upper row
+../tests/subtask4/34 n = 1000, k = 733, wrong cells are only in the upper row
+../tests/subtask4/35 n = 10000, k = 2659, wrong cells are only in the upper row
+../tests/subtask4/36 n = 100000, k = 14439, wrong cells are only in the upper row
+../tests/subtask4/37 n = 1000, k = 656, no vertical dominoes
+../tests/subtask4/38 n = 10000, k = 6662, no vertical dominoes
+../tests/subtask4/39 n = 50000, k = 33292, no vertical dominoes
+../tests/subtask4/40 n = 100000, k = 66566, no vertical dominoes
+../tests/subtask4/41 n = 100000, k = 66759, no vertical dominoes
+../tests/subtask4/42 n = 100000, k = 1254, only vertical dominoes
+../tests/subtask4/43 n = 100000, k = 85504, only vertical dominoes
+../tests/subtask4/44 n = 1000, k = 1007, all types of bad cells
+../tests/subtask4/45 n = 10000, k = 9935, all types of bad cells
+../tests/subtask4/46 n = 50000, k = 50317, all types of bad cells
+../tests/subtask4/47 n = 50000, k = 49897, all types of bad cells
+../tests/subtask4/48 n = 100000, k = 99794, all types of bad cells
+../tests/subtask4/49 n = 100000, k = 100013, all types of bad cells
+../tests/subtask4/50 n = 100000, k = 99761, all types of bad cells
+../tests/subtask4/51 n = 100000, k = 150000, test with answer equal to 1
