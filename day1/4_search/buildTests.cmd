@@ -82,7 +82,13 @@ for %%i in (preliminary, tests\subtask1, tests\subtask2, tests\subtask3) do (
         echo Saving answer for test %%j
         copy search.out %%j.a > nul
     )
+
+    move %%i\* tests
+    rmdir %%i
 )
 
+echo Copy checker to tests
+copy check.* tests
+copy task.cfg tests
 
 :end

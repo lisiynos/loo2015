@@ -106,6 +106,7 @@ public class Gen {
         }
         logger.add("../preliminary/01" + "\t" + "n = " + filters.size() + " k = " + urls.size());
         out.close();
+        done++; // TestSys
         out = new PrintWriter("../preliminary/02");
         filters = Arrays.asList("*.bb/c", "*.bb/c/*", "bb/c/*", "bb/c/*");
         urls = Arrays.asList("bb", "bb/c", "bb/c/d", "a.bb", "a.bb/c",
@@ -120,6 +121,7 @@ public class Gen {
         }
         logger.add("../preliminary/02" + "\t" + "n = " + filters.size() + " k = " + urls.size());
         out.close();
+        done++; // TestSys
     }
 
     static String genRandomString(int len) {
@@ -276,7 +278,7 @@ public class Gen {
 
         genSimple();
 
-        done = 0;
+        // done = 0; // TestSys
 
         // First group (1 - 9 test)
         // n, k <= 1000
