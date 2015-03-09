@@ -3,6 +3,12 @@
 #include <iostream>
 #include <cmath>
 
+#ifdef WIN32
+#define I64 "%I64d"
+#else
+#define I64 "%lld"
+#endif
+
 using namespace std;
 
 #define MAXN 1000002
@@ -17,25 +23,25 @@ int main(void) {
     int n, k;
     scanf("%d %d", &n, &k);
 
-    for (int i = 1; i <= n; i++) {
+    for (int i = 0; i < n; i++) {
         scanf("%d", &a[i]);
-        s[i] = s[i - 1] + a[i];
+        s[i + 1] = s[i] + a[i];
     }
 
-    for (int i = k; i <= n; i++) {
-        pref[i] = max(pref[i - 1], s[i] - s[i - k]);
+    for (int i = k - 1; i < n; i++) {
+        pref[i + 1] = max(pref[i], s[i + 1] - s[i - k + 1]);
     }
 
-    for (int i = n - k + 1; i >= 1; i--) {
-        suff[i] = max(suff[i + 1], s[i + k - 1] - s[i - 1]);
+    for (int i = n - k; i > 0; i--) {
+        suff[i] = max(suff[i + 1], s[i + k]  - s[i]);
     }
 
     long long best = 2e18;
-    for (int i = 1; i <= n - k + 1; i++) {
-        best = min(best, max(pref[i - 1], suff[i + k]));
+    for (int i = 0; i < n - k + 1; i++) {
+        best = min(best, max(pref[i], suff[i + k]));
     }
 
-    printf("%I64d\n", best);
+    printf(I64"\n", best);
 
     return 0;
 }
