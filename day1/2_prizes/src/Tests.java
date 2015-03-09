@@ -164,7 +164,7 @@ public class Tests {
             new File(folder).mkdir();
         writeTest(new int[]{1, 2, 4, 5, 2, 4, 2, 2, 1, 6}, 2, "Sample test");
 
-        tests = 1;
+        // tests = 1; // TestSys
         folder = "../tests/";
         if (!new File(folder).exists())
             new File(folder).mkdir();
