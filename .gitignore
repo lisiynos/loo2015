@@ -8,3 +8,5 @@
 testlogs
 ioilogs
 ioisols
+*.jar
+*.class
