@@ -65,6 +65,7 @@ prelim = Printer("preliminary", desc)
 prelim.print(2, 4, 3, 3, 25)
 
 tests = Printer("tests", desc)
+tests.tests = prelim.tests # TestSys
 # 32 points, 1 <= * <= 1000
 for start in [10, 100, 500, 500]:
     a = randint(1, start // 5)
