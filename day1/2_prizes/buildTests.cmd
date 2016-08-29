@@ -1,5 +1,7 @@
 @echo off
 
+SET PATH=C:\Python34;C:\CodeBlocks\MinGW\bin;%PATH%
+
 echo Compiling checker
 dcc32 -U..\..\lib -cc check.dpr
 
@@ -73,6 +75,10 @@ for %%i in (preliminary, tests\subtask1, tests\subtask2, tests\subtask3) do (
 echo Copy checker to tests
 copy check.* tests
 copy task.cfg tests
+<<<<<<< HEAD
 copy prizes_va.cpp tests\solution.cpp
+=======
+copy main\prizes_va.cpp tests\solution.cpp
+>>>>>>> 62541f2ad586be3d1495ddd6f7505d2fe472ad2d
 
 :end
