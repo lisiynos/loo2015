@@ -1,48 +1,48 @@
 ../preliminary/01	Sample test n = 10, k = 2
-../tests/subtask1/01	Random test with n = 50, k = 8
 ../tests/subtask1/02	Random test with n = 50, k = 8
-../tests/subtask1/03	Random test with n = 50, k = 15
-../tests/subtask1/04	Random test with n = 50, k = 1
-../tests/subtask1/05	Maximal random test with n = 50, k = 16
+../tests/subtask1/03	Random test with n = 50, k = 8
+../tests/subtask1/04	Random test with n = 50, k = 15
+../tests/subtask1/05	Random test with n = 50, k = 1
 ../tests/subtask1/06	Maximal random test with n = 50, k = 16
-../tests/subtask1/07	Maximal test with n = 50, k = 16
-../tests/subtask1/08	Random test with n = 50, k = 7
-../tests/subtask1/09	Random test with n = 50, k = 10
-../tests/subtask1/10	Anti-greedy test with n = 50, k = 16
+../tests/subtask1/07	Maximal random test with n = 50, k = 16
+../tests/subtask1/08	Maximal test with n = 50, k = 16
+../tests/subtask1/09	Random test with n = 50, k = 7
+../tests/subtask1/10	Random test with n = 50, k = 10
 ../tests/subtask1/11	Anti-greedy test with n = 50, k = 16
-../tests/subtask1/12	Anti-greedy test with n = 50, k = 10
-../tests/subtask1/13	Anti-greedy test with n = 50, k = 7
-../tests/subtask2/14	Random test with n = 5000, k = 1602
-../tests/subtask2/15	Random test with n = 5000, k = 425
-../tests/subtask2/16	Random test with n = 5000, k = 1103
-../tests/subtask2/17	Random test with n = 5000, k = 1
-../tests/subtask2/18	Random test with max at 0 and  n = 5000, k = 1
-../tests/subtask2/19	Random test with max at 1 and  n = 5000, k = 1
-../tests/subtask2/20	Random test with max at 4998 and  n = 5000, k = 1
-../tests/subtask2/21	Random test with max at 4999 and  n = 5000, k = 1
-../tests/subtask2/22	Maximal random test with n = 5000, k = 1666
+../tests/subtask1/12	Anti-greedy test with n = 50, k = 16
+../tests/subtask1/13	Anti-greedy test with n = 50, k = 10
+../tests/subtask1/14	Anti-greedy test with n = 50, k = 7
+../tests/subtask2/15	Random test with n = 5000, k = 1602
+../tests/subtask2/16	Random test with n = 5000, k = 425
+../tests/subtask2/17	Random test with n = 5000, k = 1103
+../tests/subtask2/18	Random test with n = 5000, k = 1
+../tests/subtask2/19	Random test with max at 0 and  n = 5000, k = 1
+../tests/subtask2/20	Random test with max at 1 and  n = 5000, k = 1
+../tests/subtask2/21	Random test with max at 4998 and  n = 5000, k = 1
+../tests/subtask2/22	Random test with max at 4999 and  n = 5000, k = 1
 ../tests/subtask2/23	Maximal random test with n = 5000, k = 1666
-../tests/subtask2/24	Maximal test with n = 5000, k = 1666
-../tests/subtask2/25	Random test with n = 5000, k = 70
-../tests/subtask2/26	Random test with n = 5000, k = 1000
-../tests/subtask2/27	Anti-greedy test with n = 5000, k = 1666
+../tests/subtask2/24	Maximal random test with n = 5000, k = 1666
+../tests/subtask2/25	Maximal test with n = 5000, k = 1666
+../tests/subtask2/26	Random test with n = 5000, k = 70
+../tests/subtask2/27	Random test with n = 5000, k = 1000
 ../tests/subtask2/28	Anti-greedy test with n = 5000, k = 1666
-../tests/subtask2/29	Anti-greedy test with n = 5000, k = 1000
-../tests/subtask2/30	Anti-greedy test with n = 5000, k = 70
-../tests/subtask3/31	Random test with n = 100000, k = 31478
-../tests/subtask3/32	Random test with n = 100000, k = 12905
-../tests/subtask3/33	Random test with n = 100000, k = 3701
-../tests/subtask3/34	Random test with n = 100000, k = 1
-../tests/subtask3/35	Random test with max at 0 and  n = 100000, k = 1
-../tests/subtask3/36	Random test with max at 1 and  n = 100000, k = 1
-../tests/subtask3/37	Random test with max at 99998 and  n = 100000, k = 1
-../tests/subtask3/38	Random test with max at 99999 and  n = 100000, k = 1
-../tests/subtask3/39	Maximal random test with n = 100000, k = 33333
+../tests/subtask2/29	Anti-greedy test with n = 5000, k = 1666
+../tests/subtask2/30	Anti-greedy test with n = 5000, k = 1000
+../tests/subtask2/31	Anti-greedy test with n = 5000, k = 70
+../tests/subtask3/32	Random test with n = 100000, k = 31478
+../tests/subtask3/33	Random test with n = 100000, k = 12905
+../tests/subtask3/34	Random test with n = 100000, k = 3701
+../tests/subtask3/35	Random test with n = 100000, k = 1
+../tests/subtask3/36	Random test with max at 0 and  n = 100000, k = 1
+../tests/subtask3/37	Random test with max at 1 and  n = 100000, k = 1
+../tests/subtask3/38	Random test with max at 99998 and  n = 100000, k = 1
+../tests/subtask3/39	Random test with max at 99999 and  n = 100000, k = 1
 ../tests/subtask3/40	Maximal random test with n = 100000, k = 33333
-../tests/subtask3/41	Maximal test with n = 100000, k = 33333
-../tests/subtask3/42	Random test with n = 100000, k = 316
-../tests/subtask3/43	Random test with n = 100000, k = 20000
-../tests/subtask3/44	Anti-greedy test with n = 100000, k = 33333
+../tests/subtask3/41	Maximal random test with n = 100000, k = 33333
+../tests/subtask3/42	Maximal test with n = 100000, k = 33333
+../tests/subtask3/43	Random test with n = 100000, k = 316
+../tests/subtask3/44	Random test with n = 100000, k = 20000
 ../tests/subtask3/45	Anti-greedy test with n = 100000, k = 33333
-../tests/subtask3/46	Anti-greedy test with n = 100000, k = 20000
-../tests/subtask3/47	Anti-greedy test with n = 100000, k = 316
+../tests/subtask3/46	Anti-greedy test with n = 100000, k = 33333
+../tests/subtask3/47	Anti-greedy test with n = 100000, k = 20000
+../tests/subtask3/48	Anti-greedy test with n = 100000, k = 316

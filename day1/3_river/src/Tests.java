@@ -433,8 +433,8 @@ public class Tests {
         new File("../tests/subtask4").mkdir();
         new File("../preliminary").mkdir();
 
-        tNumber = 1;
         tNumberPre = 1;
+        tNumber = tNumberPre + 1; // TestSys
         tests = new ArrayList<String>();
         genSimple();
         rnd = new Random(313131311);
